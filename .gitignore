@@ -1,0 +1,10 @@
+proj.android/bin
+proj.android/obj
+cocos2d/cocos/platform/android/java/bin
+proj.android/libs/armeabi
+proj.android/assets
+facebook/bin
+facebook/gen
+proj.ios_mac/animalplanet.xcodeproj/project.xcworkspace/xcuserdata
+proj.android/gen
+cocos2d/cocos/platform/android/java/gen
