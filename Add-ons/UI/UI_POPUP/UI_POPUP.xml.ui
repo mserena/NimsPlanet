@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_POPUP</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_POPUP\Resources</Resources>
+  <Name>UI_POPUP</Name>
+  <JsonFileName>UI_POPUP.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_POPUP\Json</JsonFolder>
+  <JsonList>
+    <string>UI_POPUP.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1700</Width>
+    <Height>2100</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_POPUP\UI_POPUP.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_POPUP0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_POPUP.json</CurrentUIJson>
+</UIProject>

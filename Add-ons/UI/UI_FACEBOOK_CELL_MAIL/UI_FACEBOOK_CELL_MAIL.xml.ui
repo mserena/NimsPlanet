@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_FACEBOOK_CELL_MAIL</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_FACEBOOK_CELL_MAIL\Resources</Resources>
+  <Name>UI_FACEBOOK_CELL_MAIL</Name>
+  <JsonFileName>UI_FACEBOOK_CELL_MAIL.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_FACEBOOK_CELL_MAIL\Json</JsonFolder>
+  <JsonList>
+    <string>UI_FACEBOOK_CELL_MAIL.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1500</Width>
+    <Height>300</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_FACEBOOK_CELL_MAIL\UI_FACEBOOK_CELL_MAIL.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_FACEBOOK_CELL_MAIL0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_FACEBOOK_CELL_MAIL0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_FACEBOOK_CELL_MAIL.json</CurrentUIJson>
+</UIProject>

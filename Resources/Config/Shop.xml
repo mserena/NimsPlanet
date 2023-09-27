@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<shopConfig>
+    <!-- Definición de los ítems para comprar -->
+    <ShopItems>
+        <!-- Boosters de tablero -->
+        <item id="BOOSTER_0_0" price="6"/>
+        <item id="BOOSTER_0_1" price="6"/>
+        <item id="BOOSTER_0_2" price="15"/>
+        <item id="BOOSTER_0_3" price="16"/>
+        
+        <!-- Boosters de juego -->
+        <item id="BOOSTER_1_0" price="8"/>
+        <item id="BOOSTER_1_1" price="12"/>
+        <item id="BOOSTER_1_2" price="12"/>
+        <item id="BOOSTER_1_3" price="14"/>
+        <item id="BOOSTER_1_4" price="16"/>
+        
+        <!-- Vidas -->
+        <item id="ALL_LIVES" price="12"/>
+        
+        <!-- Seguir jugando -->
+        <item id="CONTINUE_PLAYING" price="8"/>
+        
+        <!-- Tirada al bonus diario -->
+        <item id="DAILY_BONUS_PLAY" price="1"/>
+        
+        <!-- Stoppers -->
+        <item id="STOPPER"     price="8"/>
+        
+    </ShopItems>
+    <StoreItems>
+        <item id="0" price="0.99" numCoins="15"/>
+        <item id="1" price="2.99" numCoins="60"/>
+        <item id="2" price="6.99" numCoins="130"/>
+        <item id="3" price="16.99" numCoins="340"/>
+        <item id="4" price="31.99" numCoins="660"/>
+    </StoreItems>
+</shopConfig>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="26">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="9"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        
+        <restriction type="1" value="20"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks)-->
+        <goal type="0" value="11000" optional="false"/>
+        <goal type="3" value="1" figure="1" optional="false"/>
+        <goal type="4" value="8" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="6000,11000,14000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="0"/>
+        <figureWeight id="1" weight="0"/>
+        <figureWeight id="2" weight="1"/>
+        <figureWeight id="3" weight="1"/>
+        <figureWeight id="4" weight="1"/>
+        <figureWeight id="5" weight="1"/>
+        
+        <!-- Map -->
+        
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C0,C0,C0,C0,C0,C0,C0,C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[S2T2],C2[S2T2],C2[S2T2],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[S2T2],C2[D0T0],C2[S2T2],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[S2T2],C2[S2T2],C2[S2T2],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        
+        <!-- Background -->
+        <background src="bgSheep.jpg"/>
+    </Level>
+</Levels>

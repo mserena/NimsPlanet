@@ -1,0 +1,22 @@
+{
+    "applications": {
+        "NimsPlanet": {
+            "applicationId": "41M0pgdIbXjNyEoe2oZ8xeKCVkZ2B0GRaBcdlAsn", 
+            "masterKey": "jThQ8zM57tueFh9zi0xi4WGKpxmEipfCvh7M5UfY"
+        },
+        "NimsPlanet12": {
+            "applicationId": "ampK0P3YFLjwsM5URwFnCT1WkLJJieRlxZrcPaVX", 
+            "masterKey": "FYy0k63BML4U59hAP6D5lGF6Gv98lXKrQ3Zr8lNX"
+        }, 
+        "NimsPlanetPRO": {
+            "applicationId": "pFF4vZtoipjEOzonuTd4nqrxb33XwE3D4meCXnIC", 
+            "masterKey": "dYYHTkRkSqSYOwc3LZ6nE13fU09sKJsq9TDneDae"
+        }, 
+        "_default": {
+            "link": "NimsPlanet"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}

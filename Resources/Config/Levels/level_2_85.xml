@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="85">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        <restriction type="1" value="40"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects, 3-collect figures, 4-collect blocks(rocks) 5-break rocks, 6-network -->
+        <goal type="0" value="9500" optional="false"/>
+        <goal type="1" value="6" optional="false"/>
+        <goal type="6" value="2" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="5000,9500,13000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="1"/>
+        <figureWeight id="2" weight="1"/>
+        <figureWeight id="3" weight="1"/>
+        <figureWeight id="4" weight="0"/>
+        <figureWeight id="5" weight="0"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C0,C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C0,C0,C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6|S3T40],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6|S3T40],C2[D0T6],C2[D0T6],C2[D0T6],"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[S1T2],C2[S1T2],C2[S1T2]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C0,C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C0,C0,C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6]"/>
+        
+        <!-- Background -->
+        <background src="bgForest.jpg"/>
+        
+    </Level>
+</Levels>

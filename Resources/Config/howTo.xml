@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<howTo>
+	<tutorial id="TUTORIAL_1">
+		<text id="HOWTO_CONECTAR" />
+		<img src="ui_tutorial_conectar.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_2">
+        <text id="HOWTO_COMBO" />
+		<img src="ui_tutorial_combo3.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_3">
+		<text id="HOWTO_SENTIDO_COMBOS" />
+		<img src="ui_tutorial_sentido_combos.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_4">
+		<text id="HOWTO_COMBO_COLOR" />
+		<img src="ui_tutorial_combo_color.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_5">
+		<text id="HOWTO_COMBINACIONES_COMBOS" />
+		<img src="ui_tutorial_combinaciones_combos.png" />
+	</tutorial>
+    <tutorial id="TUTORIAL_6">
+        <text id="HOWTO_BONUS" />
+        <img src="ui_tutorial_bonus.png" />
+    </tutorial>
+	<tutorial id="TUTORIAL_7">
+		<text id="HOWTO_ESTRELLAS" />
+		<img src="ui_tutorial_estrellas.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_8">
+		<text id="HOWTO_BARRO" />
+		<img src="ui_tutorial_barro.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_9">
+		<text id="HOWTO_MADERA" />
+		<img src="ui_tutorial_madera.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_10">
+		<text id="HOWTO_RECOLECTAR_ANIMALES" />
+		<img src="ui_tutorial_animales.png" />
+	</tutorial>
+	<tutorial id="TUTORIAL_11">
+		<text id="HOWTO_PAJA" />
+		<img src="ui_tutorial_paja.png" />
+	</tutorial>
+    <tutorial id="TUTORIAL_12">
+        <text id="HOWTO_PIEDRA" />
+        <img src="ui_tutorial_piedra.png" />
+    </tutorial>
+    <tutorial id="TUTORIAL_13">
+        <text id="HOWTO_RED" />
+        <img src="ui_tutorial_red.png" />
+    </tutorial>
+    <tutorial id="TUTORIAL_14">
+        <text id="HOWTO_TRONCO" />
+        <img src="ui_tutorial_tronco.png" />
+    </tutorial>
+    <tutorial id="TUTORIAL_15">
+        <text id="HOWTO_INGAME_GLUE" />
+        <img src="ui_tutorial_pegote.png" />
+    </tutorial>
+    <tutorial id="TUTORIAL_16">
+        <text id="CONGRATULATIONS_TEXT" />
+        <img src="ui_tutorial_new_nims.png" />
+    </tutorial>
+</howTo>

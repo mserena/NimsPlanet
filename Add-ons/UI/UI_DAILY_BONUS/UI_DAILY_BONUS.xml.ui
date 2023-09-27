@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_DAILY_BONUS</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_DAILY_BONUS\Resources</Resources>
+  <Name>UI_DAILY_BONUS</Name>
+  <JsonFileName>UI_DAILY_BONUS.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_DAILY_BONUS\Json</JsonFolder>
+  <JsonList>
+    <string>UI_DAILY_BONUS.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1800</Width>
+    <Height>2700</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_DAILY_BONUS\UI_DAILY_BONUS.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_DAILY_BONUS0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_DAILY_BONUS.json</CurrentUIJson>
+</UIProject>

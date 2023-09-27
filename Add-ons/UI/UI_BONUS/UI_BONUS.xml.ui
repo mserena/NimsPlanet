@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_BONUS</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_BONUS\Resources</Resources>
+  <Name>UI_BONUS</Name>
+  <JsonFileName>UI_BONUS.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_BONUS\Json</JsonFolder>
+  <JsonList>
+    <string>UI_BONUS.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1300</Width>
+    <Height>950</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_BONUS\UI_BONUS.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_BONUS0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_BONUS.json</CurrentUIJson>
+</UIProject>

@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<mapConfig>
+    <!-- Piezas el mapa -->
+    <mapPieces numPieces="47" prefixName="mapa_" suffixName=".jpg"/>
+    
+    <mapDesignResolution resolution="1536,9400"/>
+    
+    <mapStopper>
+        <stopper level="27"/>
+        <stopper level="54"/>
+        <stopper level="83"/>
+        <stopper level="110"/>
+    </mapStopper>
+    
+    <!-- Niveles -->
+    <mapLevels>
+        <!-- Mundo 1 -->
+		<level id="1" position="975,171"/>
+		<level id="2" position="1257,209"/>
+		<level id="3" position="1323,392"/>
+		<level id="4" position="1124,506"/>
+		<level id="5" position="809,492"/>
+		<level id="6" position="520,467"/>
+		<level id="7" position="257,531"/>
+		<level id="8" position="218,723"/>
+		<level id="9" position="474,835"/>
+		<level id="10" position="783,857"/>
+		<level id="11" position="1111,857"/>
+		<level id="12" position="1257,995"/>
+		<level id="13" position="967,1056"/>
+		<level id="14" position="666,1072"/>
+		<level id="15" position="454,1193"/>
+		<level id="16" position="633,1365"/>
+		<level id="17" position="941,1442"/>
+		<level id="18" position="1214,1516"/>
+		<level id="19" position="1210,1684"/>
+		<level id="20" position="936,1668"/>
+		<level id="21" position="666,1603"/>
+		<level id="22" position="398,1603"/>
+		<level id="23" position="200,1727"/>
+		<level id="24" position="463,1858"/>
+		<level id="25" position="402,2034"/>
+		<level id="26" position="685,2053"/>
+		<level id="27" position="993,2044"/>
+		<level id="28" position="1237,2144"/>
+		<level id="29" position="1341,2358"/>
+		<level id="30" position="1120,2438"/>
+		<level id="31" position="840,2412"/>
+		<level id="32" position="544,2395"/>
+		<level id="33" position="286,2445"/>
+		<level id="34" position="131,2583"/>
+		<level id="35" position="257,2784"/>
+		<level id="36" position="504,2876"/>
+		<level id="37" position="772,2866"/>
+		<level id="38" position="1080,2838"/>
+		<level id="39" position="1332,2966"/>
+		<level id="40" position="1040,3076"/>
+		<level id="41" position="1125,3229"/>
+		<level id="42" position="885,3284"/>
+		<level id="43" position="600,3289"/>
+		<level id="44" position="361,3363"/>
+		<level id="45" position="222,3525"/>
+		<level id="46" position="375,3665"/>
+		<level id="47" position="657,3637"/>
+		<level id="48" position="885,3537"/>
+		<level id="49" position="1120,3521"/>
+		<level id="50" position="1157,3682"/>
+		<level id="51" position="1063,3815"/>
+		<level id="52" position="1233,3905"/>
+		<level id="53" position="1111,4005"/>
+		<level id="54" position="752,4026"/>
+        <!-- Mundo 2 -->
+        <level id="55" position="444,4186"/>
+        <level id="56" position="525,4362"/>
+        <level id="57" position="771,4418"/>
+        <level id="58" position="1021,4457"/>
+        <level id="59" position="1273,4513"/>
+        <level id="60" position="1321,4682"/>
+        <level id="61" position="1063,4723"/>
+        <level id="62" position="821,4710"/>
+        <level id="63" position="675,4788"/>
+        <level id="64" position="837,4910"/>
+        <level id="65" position="951,5030"/>
+        <level id="66" position="674,5081"/>
+        <level id="67" position="441,5122"/>
+        <level id="68" position="248,5222"/>
+        <level id="69" position="421,5340"/>
+        <level id="70" position="690,5304"/>
+        <level id="71" position="955,5311"/>
+        <level id="72" position="1067,5470"/>
+        <level id="73" position="1277,5560"/>
+        <level id="74" position="1206,5756"/>
+        <level id="75" position="961,5850"/>
+        <level id="76" position="710,5898"/>
+        <level id="77" position="444,5970"/>
+        <level id="78" position="255,6084"/>
+        <level id="79" position="285,6262"/>
+        <level id="80" position="531,6239"/>
+        <level id="81" position="759,6158"/>
+        <level id="82" position="1032,6106"/>
+        <level id="83" position="1219,6183"/>
+        <level id="84" position="1037,6328"/>
+        <level id="85" position="765,6412"/>
+        <level id="86" position="643,6558"/>
+        <level id="87" position="800,6684"/>
+        <level id="88" position="1013,6731"/>
+        <level id="89" position="1167,6857"/>
+        <level id="90" position="1037,6975"/>
+        <level id="91" position="818,7027"/>
+        <level id="92" position="603,7060"/>
+        <level id="93" position="437,7169"/>
+        <level id="94" position="276,7268"/>
+        <level id="95" position="237,7430"/>
+        <level id="96" position="458,7457"/>
+        <level id="97" position="703,7408"/>
+        <level id="98" position="942,7395"/>
+        <level id="99" position="1069,7513"/>
+        <level id="100" position="920,7631"/>
+        <level id="101" position="1096,7702"/>
+        <level id="102" position="1284,7782"/>
+        <level id="103" position="1333,7926"/>
+        <level id="104" position="1109,7941"/>
+        <level id="105" position="885,7883"/>
+        <level id="106" position="667,7792"/>
+        <level id="107" position="435,7740"/>
+        <level id="108" position="298,7847"/>
+        <level id="109" position="198,7992"/>
+        <level id="110" position="355,8115"/>
+        <level id="111" position="574,8177"/>
+        <level id="112" position="804,8186"/>
+        <level id="113" position="1039,8171"/>
+        <level id="114" position="1252,8212"/>
+        <level id="115" position="1369,8354"/>
+    </mapLevels>
+    
+    <!-- 
+        Tipos de animaciones de mapa:
+            0. Rotación
+            1. Animación con spritesheet
+            2. Sprite estático
+            3. Sistema de partículas
+            4. Salto
+     -->
+    <mapAnimations>
+        <!-- Wolrd 1-->
+        <mapAnimation type="0" resource="anim_molino.png" position="202,2090"/>
+        <mapAnimation type="1" resource="animalCubes_mapAnim_bird1" position="1383,118"/>
+        <mapAnimation type="1" resource="animalCubes_mapAnim_bird2" position="432,2309"/>
+        <mapAnimation type="1" resource="animalCubes_mapAnim_bird3" position="1388,2860"/>
+        <mapAnimation type="1" resource="animalCubes_mapAnim_bird4" position="961,4030"/>
+        <mapAnimation type="2" resource="anim_ovni.png" position="345,3195"/>
+        <mapAnimation type="3" resource="smoke_ufo.plist" timeRepeat="0" position="345,3195"/>
+        <mapAnimation type="3" resource="smoke_ufo.plist" timeRepeat="0" position="230,3185"/>
+        <mapAnimation type="3" resource="sparks_ufo.plist" timeRepeat="2" position="230,3185"/>
+        
+        <!-- World 2-->
+        <mapAnimation type="1" resource="animalCubes_mapAnim_periscope" position="184,4735"/>
+        <mapAnimation type="3" resource="fire_map.plist" timeRepeat="0" position="501,6405"/>
+    </mapAnimations>
+    
+</mapConfig>

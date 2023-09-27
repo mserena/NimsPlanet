@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="108">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        <restriction type="1" value="65"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks) 5-break rocks, 6-network -->
+        <goal type="2" value="3" initWeight="2" maxWeight="10" increaseWeight="5" optional="false"/>
+        <goal type="4" value="7" optional="false"/>
+        <goal type="5" value="7" optional="false"/>
+        <goal type="6" value="7" optional="false"/>
+                
+        
+        <!-- Score stars-->
+        <stars scores="6000,15000,22000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="4"/>
+        <figureWeight id="2" weight="3"/>
+        <figureWeight id="3" weight="4"/>
+        <figureWeight id="4" weight="1"/>
+        <figureWeight id="5" weight="3"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C2[D0T6],C2[D5],C2[D0T6],C2[D5],C2[D0T6],C2[D5],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T1],C2[D0T1],C2[D0T6],C2[D0T6],C2[D0T3],C2[D0T3],C2[D0T3]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T1],C2[D0T6],C2[D0T6],C2[D0T3],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T1],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2]"/>
+        <row rowDescriptor="C2[D0T6|S2T2],C2[D0T6|S2T2],C2[D0T6|S2T2],C2[D0T6|S2T2],C2[D0T6|S2T2],C2[D0T6|S2T2],C2[D0T6|S2T2]"/>
+        <row rowDescriptor="C2[D0T2|S3T1],C2[D0T3|S3T2],C2[D0T2|S3T3],C2[D0T5|S3T3],C2[D0T3|S3T3],C2[D0T5|S3T2],C2[D0T2|S3T1]"/>
+        <row rowDescriptor="C2[D0T6|S4],C2[D0T6|S4],C2[D0T6|S4],C2[D0T6|S4],C2[D0T6|S4],C2[D0T6|S4],C2[D0T6|S4]"/>
+
+        <!-- Background -->
+        <background src="bgJungle.jpg"/>
+        
+    </Level>
+</Levels>

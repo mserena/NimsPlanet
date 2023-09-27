@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_LOADING</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_LOADING\Resources</Resources>
+  <Name>UI_LOADING</Name>
+  <JsonFileName>UI_LOADING.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_LOADING\Json</JsonFolder>
+  <JsonList>
+    <string>UI_LOADING_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1200</Width>
+    <Height>400</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_LOADING\UI_LOADING.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_LOADING0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_LOADING0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_LOADING_1.json</CurrentUIJson>
+</UIProject>

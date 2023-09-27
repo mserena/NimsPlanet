@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="25">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="9"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        
+        <restriction type="1" value="30"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks)-->
+        <goal type="3" value="32" figure="1" optional="false"/>
+        <goal type="3" value="32" figure="2" optional="false"/>
+        <goal type="3" value="32" figure="5" optional="false"/>
+        <goal type="3" value="32" figure="6" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="9000,13000,16000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="1"/>
+        <figureWeight id="2" weight="2"/>
+        <figureWeight id="3" weight="2"/>
+        <figureWeight id="4" weight="1"/>
+        <figureWeight id="5" weight="1"/>
+        
+        <!-- Map -->
+        
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C0,C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0,C0"/>
+        
+        <!-- Background -->
+        <background src="bgSheep.jpg"/>
+    </Level>
+</Levels>

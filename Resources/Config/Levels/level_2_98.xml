@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="98">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        <restriction type="1" value="50"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects, 3-collect figures, 4-collect blocks(rocks) 5-break rocks, 6-network -->
+        <goal type="1" value="2" optional="false"/>
+        <goal type="4" value="2" optional="false"/>
+        <goal type="6" value="12" optional="false"/>
+        <goal type="3" figure="2" value="70" optional="false"/>
+       
+        
+        <!-- Score stars-->
+        <stars scores="5000,10000,17000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="0"/>
+        <figureWeight id="1" weight="3"/>
+        <figureWeight id="2" weight="2"/>
+        <figureWeight id="3" weight="2"/>
+        <figureWeight id="4" weight="2"/>
+        <figureWeight id="5" weight="2"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C0,C0,C0,C2[D0T6|S3T5],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C0,C2[S0T2|D0T6|S2T2],C0,C2[D0T6|S3T5],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C0,C0,C0,C2[D0T6|S3T6],C2[D0T6|S3T6],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T6],C2[D0T6|S3T6],C0,C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6|S3T5],C0,C2[S0T2|D0T6|S2T2],C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],,C2[D0T6|S3T5],C0,C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        
+        <!-- Background -->
+        <background src="bgForest.jpg"/>
+        
+    </Level>
+</Levels>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\thegame\Add-ons\UI\UI_SHOP</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\thegame\Add-ons\UI\UI_SHOP\Resources</Resources>
+  <Name>UI_SHOP</Name>
+  <JsonFileName>UI_SHOP.json</JsonFileName>
+  <JsonFolder>Z:\thegame\Add-ons\UI\UI_SHOP\Json</JsonFolder>
+  <JsonList>
+    <string>UI_SHOP.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1800</Width>
+    <Height>3000</Height>
+  </CanvasSize>
+  <filePath>Z:\thegame\Add-ons\UI\UI_SHOP\UI_SHOP.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_SHOP0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_SHOP0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_SHOP.json</CurrentUIJson>
+</UIProject>

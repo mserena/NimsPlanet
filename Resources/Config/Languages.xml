@@ -1,0 +1,3196 @@
+<?xml version="1.0"?>
+<Texts>
+    <Text id="PLAY">
+        <Language id="ENGLISH">
+            <line text="PLAY"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="JUGAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="JOUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="GIOCA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SPIELEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="JOGAR"/>
+        </Language>
+    </Text>
+    <Text id="CONNECT">
+        <Language id="ENGLISH">
+            <line text="CONNECT"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="CONECTAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="CONNECTER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="COLLEGATI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="VERBINDEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CONECTAR"/>
+        </Language>
+    </Text>
+    <Text id="INVITAR">
+        <Language id="ENGLISH">
+            <line text="INVITE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="INVITAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="INVITER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="INVITA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="EINLADEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CONVIDAR"/>
+        </Language>
+    </Text>
+    <Text id="DISCONNECT">
+        <Language id="ENGLISH">
+            <line text="DISCONNECT"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="DESCONECTAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DÉCONNECTER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ESCI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="TRENNEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="DESCONECTAR"/>
+        </Language>
+    </Text>
+    <Text id="SCORE">
+        <Language id="ENGLISH">
+            <line text="SCORE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PUNTOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="POINTS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PUNTI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="PUNKTE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PONTOS"/>
+        </Language>
+    </Text>
+    <Text id="MOVEMENTS">
+        <Language id="ENGLISH">
+            <line text="MOVEMENTS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="MOVIMIENTOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="MOUVEMENTS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="MOSSE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZÜGE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="MOVIMENTOS"/>
+        </Language>
+    </Text>
+    <Text id="TIME">
+        <Language id="ENGLISH">
+            <line text="TIME"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TIEMPO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="TEMPS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="TEMPO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZEIT"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="TEMPO"/>
+        </Language>
+    </Text>
+    <Text id="LEVEL">
+        <Language id="ENGLISH">
+            <line text="LEVEL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="NIVEL"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="NIVEAU"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="LIVELLO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="NIVEAU"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NÍVEL"/>
+        </Language>
+    </Text>
+    <Text id="RETRY">
+        <Language id="ENGLISH">
+            <line text="RETRY"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="REINTENTAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="RÉESAYER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="RIPROVA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="NEU VERSUCHEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NOVAMENTE"/>
+        </Language>
+    </Text>
+    <Text id="LOSE_TITLE">
+        <Language id="ENGLISH">
+            <line text="YOU LOSE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="HAS FALLADO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VOUS AVEZ PERDU"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="HAI PERSO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="NICHT GESCHAFFT"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FALHOU"/>
+        </Language>
+    </Text>
+    <Text id="WITHOUT_COMBINATIONS">
+        <Language id="ENGLISH">
+            <line text="NO COMBINATIONS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="SIN COMBINACIONES"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="SANS COMBINAISONS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NESSUN ABBINAMENTO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="OHNE KOMBINATIONEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SEM COMBINAÇÕES"/>
+        </Language>
+    </Text>
+    <Text id="LEVEL_COMPLETE">
+        <Language id="ENGLISH">
+            <line text="LEVEL COMPLETE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="NIVEL COMPLETADO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="NIVEAU RÉUSSI"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="LIVELLO COMPLETATO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="NIVEAU KOMPLETTIERT"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NÍVEL COMPLETADO"/>
+        </Language>
+    </Text>
+    <Text id="CONTINUE">
+        <Language id="ENGLISH">
+            <line text="CONTINUE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="CONTINUAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="CONTINUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CONTINUA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="WEITER"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CONTINUAR"/>
+        </Language>
+    </Text>
+    <Text id="LOADING">
+        <Language id="ENGLISH">
+            <line text="Loading..."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Cargando..."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Chargement..."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Caricando..."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Wird geladen..."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Carregando..."/>
+        </Language>
+    </Text>
+    <Text id="ACCEPT">
+        <Language id="ENGLISH">
+            <line text="ACCEPT"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="ACEPTAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ACCEPTER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ACCETTA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ANNEHMEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ACEITAR"/>
+        </Language>
+    </Text>
+    <Text id="SHOP">
+        <Language id="ENGLISH">
+            <line text="SHOP"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TIENDA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="BOUTIQUE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NEGOZIO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SHOP"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="LOJA"/>
+        </Language>
+    </Text>
+    <Text id="COINS">
+        <Language id="ENGLISH">
+            <line text="COINS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="MONEDAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="MONNAIES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="MONETE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="GELDSTÜCKE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="MOEDAS"/>
+        </Language>
+    </Text>
+    <Text id="BALANCE">
+        <Language id="ENGLISH">
+            <line text="YOUR BALANCE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TU SALDO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VOTRE SOLDE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="IL TUO SALDO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DEIN SALDO"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SEU SALDO"/>
+        </Language>
+    </Text>
+    <Text id="PAUSE">
+        <Language id="ENGLISH">
+            <line text="PAUSE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PAUSA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PAUSE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PAUSA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="PAUSE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PAUSA"/>
+        </Language>
+    </Text>
+    <Text id="SETTINGS">
+        <Language id="ENGLISH">
+            <line text="SETTINGS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="AJUSTES"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="RÉGLAGES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="IMPOSTAZIONI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="EINSTELLUNGEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="AJUSTES"/>
+        </Language>
+    </Text>
+    <Text id="APPLY">
+        <Language id="ENGLISH">
+            <line text="APPLY"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="APLICAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="APPLIQUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="APPLICARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ANWENDEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="APLICAR"/>
+        </Language>
+    </Text>
+    <Text id="ORDER_LIVES">
+        <Language id="ENGLISH">
+            <line text="REQUEST LIVES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PEDIR VIDAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DEMANDER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CHIEDERE VITE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ANFORDERN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PEDIR VIDAS"/>
+        </Language>
+    </Text>
+    <Text id="LIVES">
+        <Language id="ENGLISH">
+            <line text="LIVES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="VIDAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VIES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="VITE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="LEBEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="VIDAS"/>
+        </Language>
+    </Text>
+    <Text id="LIVES_DESC">
+        <Language id="ENGLISH">
+            <line text="PURCHASE OR REQUEST LIVES"/>
+            <line text="TO CONTINUE PLAYING"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="COMPRA O PIDE VIDAS PARA"/>
+            <line text="SEGUIR JUGANDO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ACHETEZ OU DEMANDEZ DES VIES"/>
+            <line text="POUR CONTINUER À JOUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ACQUISTA O CHIEDI VITE"/>
+            <line text="PER CONTINUARE A GIOCARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="KAUFE ODER FORDERE LEBEN AN,"/>
+            <line text="UM WEITERSPIELEN ZU KÖNNEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="COMPRE OU PEÇA VIDAS PARA"/>
+            <line text="SEGUIR JOGANDO"/>
+        </Language>
+    </Text>
+    <Text id="MUSIC">
+        <Language id="ENGLISH">
+            <line text="MUSIC"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="MÚSICA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="MUSIQUE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="MUSICA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="MUSIK"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="MÚSICA"/>
+        </Language>
+    </Text>
+    <Text id="FX">
+        <Language id="ENGLISH">
+            <line text="FX SOUND"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="FX SONIDO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FX SON"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="FX AUDIO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FX TON"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FX SOM"/>
+        </Language>
+    </Text>
+    <Text id="OBJECTIVES">
+        <Language id="ENGLISH">
+            <line text="TARGETS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="OBJETIVOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIFS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIELE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVOS"/>
+        </Language>
+    </Text>
+    <Text id="LANGUAGES">
+        <Language id="ENGLISH">
+            <line text="LANGUAGES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="IDIOMAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="LANGUES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="LINGUE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SPRACHEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="IDIOMAS"/>
+        </Language>
+    </Text>
+    <Text id="HOWTOPLAY">
+        <Language id="ENGLISH">
+            <line text="HOW TO PLAY"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="CÓMO JUGAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="COMMENT JOUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="COME GIOCARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SPIELANLEITUNG"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="COMO JOGAR"/>
+        </Language>
+    </Text>
+    <Text id="QUITLEVEL">
+        <Language id="ENGLISH">
+            <line text="EXIT LEVEL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="QUITAR NIVEL"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="QUITTER LE NIVEAU"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="TOGLIERE LIVELLO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="NIVEAU ENTFERNEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ABANDONAR NÍVEL"/>
+        </Language>
+    </Text>
+    <Text id="EXITLEVEL1">
+        <Language id="ENGLISH">
+            <line text="SURE YOU WANT TO EXIT?"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿SEGURO QUE QUIERES SALIR?"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="SOUHAITEZ-VOUS REELLEMENT QUITTER?"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="SEI SICURO DI VOLER USCIRE?"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BIST DU SICHER?"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="TEM CERTEZA DE QUE QUER SAIR?"/>
+        </Language>
+    </Text>
+    <Text id="EXITLEVEL2">
+        <Language id="ENGLISH">
+            <line text="YOU'LL LOSE A LIFE!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡PERDERÁS UNA VIDA!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VOUS PERDREZ UNE VIE!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PERDI UNA VITA!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DU VERLIERST EIN LEBEN!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PERDERÁ UMA VIDA!"/>
+        </Language>
+    </Text>
+    <Text id="SEEYOUSOON">
+        <Language id="ENGLISH">
+            <line text="WE'LL MISS YOU!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡TE ECHAREMOS DE MENOS!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VOUS ALLEZ NOUS MANQUER!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CI MANCHERAI!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="WIR VERMISSEN DICH!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SENTIREMOS SUA FALTA!"/>
+        </Language>
+    </Text>
+    <Text id="EXITTITLE">
+        <Language id="ENGLISH">
+            <line text="EXIT?"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿SALIR?"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="QUITTER?"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ESCI?"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BEENDEN?"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SAIR?"/>
+        </Language>
+    </Text>
+    <Text id="QUITGAME">
+        <Language id="ENGLISH">
+            <line text="EXIT GAME"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="SALIR DEL JUEGO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="QUITTER LE JEU"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ABBANDONARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SPIEL BEENDEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SAIR DO JOGO"/>
+        </Language>
+    </Text>
+    <Text id="SEPARATOR_MIL">
+        <Language id="ENGLISH">
+            <line text=","/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="."/>
+        </Language>
+    </Text>
+    <Text id="COMING_SOON">
+        <Language id="ENGLISH">
+            <line text="COMING SOON"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PRÓXIMAMENTE"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PROCHAINEMENT"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PROSSIMAMENTE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BALD"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="BREVEMENTE"/>
+        </Language>
+    </Text>
+    <Text id="COMING_SOON_TEXT">
+        <Language id="ENGLISH">
+            <line text="We're working on it!"/>
+            <line text="Look out for updates"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Estamos trabajando en ello!"/>
+            <line text="Atento a las actualizaciones"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Nous y travaillons!"/>
+            <line text="Soyez attentif aux mises à jour"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Ci stiamo lavorando!"/>
+            <line text="Attento agli aggiornamenti"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Wir arbeiten daran!"/>
+            <line text="Beachte die Aktualisierungen"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Estamos trabalhando nisso!"/>
+            <line text="Atenção às atualizações"/>
+        </Language>
+    </Text>
+    <Text id="CONGRATULATIONS">
+        <Language id="ENGLISH">
+            <line text="REWARD!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡RECOMPENSA!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="RÉCOMPENSE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="RICOMPENSA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BELOHNUNG"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="RECOMPENSA"/>
+        </Language>
+    </Text>
+    <Text id="CONGRATULATIONS_TEXT">
+        <Language id="ENGLISH">
+            <line text="CONGRATULATIONS!"/>
+            <line text="You have unlocked new NIMS."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡ENHORABUENA!"/>
+            <line text="Has desbloqueado nuevos NIMS."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FÉLICITATIONS"/>
+            <line text="Vous avez débloqué nouvelle NIMS."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CONGRATULAZIONI!"/>
+            <line text="Hai sbloccato nuevo NIMS."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="HERZLICHEN GLÜCKWUNSCH"/>
+            <line text="Sie haben neue NIMS entriegelt."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PARABÉNS!"/>
+            <line text="Você ter desbloqueado nova NIMS."/>
+        </Language>
+    </Text>
+    
+    <!-- BOOSTERS -->
+    <Text id="BOOSTER_TITLE_0_0">
+        <Language id="ENGLISH">
+            <line text="MOVES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="MOVIMIENTOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="MOUVEMENTS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="MOSSE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZÜGE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="MOVIMENTOS"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_0_0">
+        <Language id="ENGLISH">
+            <line text="COMPLICATED?"/>
+            <line text="ADD 5 EXTRA MOVES"/>
+            <line text="TO THE GAME."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿COMPLICADO?"/>
+            <line text="AÑADE 5 MOVIMIENTOS"/>
+            <line text="EXTRA A LA PARTIDA."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="COMPLIQUÉ?"/>
+            <line text="AJOUTEZ 5 MOUVEMENTS"/>
+            <line text="SUPPLÉMENTAIRES À LA PARTIE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="COMPLICATO?"/>
+            <line text="AGGIUNGI 5 MOSSE"/>
+            <line text="EXTRA ALLA PARTITA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="KOMPLIZIERT?"/>
+            <line text="FÜGE DEM SPIEL 5"/>
+            <line text="EXTRAZÜGE HINZU"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="COMPLICADO?"/>
+            <line text="SOME 5 MOVIMENTOS"/>
+            <line text="EXTRA À PARTIDA"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_0_1">
+        <Language id="ENGLISH">
+            <line text="TIME"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TIEMPO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="TEMPS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="TEMPO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZEIT"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="TEMPO"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_0_1">
+        <Language id="ENGLISH">
+            <line text="TAKE IT EASY!"/>
+            <line text="ADD AN EXTRA 15 SECONDS"/>
+            <line text="TO THE GAME."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡TÓMATELO CON CALMA!"/>
+            <line text="AÑADE 15 SEGUNDOS EXTRA"/>
+            <line text="A LA PARTIDA."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="RESTEZ CALME!"/>
+            <line text="AJOUTEZ 15 SECONDES"/>
+            <line text="SUPPLÉMENTAIRES."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PRENDITELA CON CALMA!"/>
+            <line text="AGGIUNGI 15 SECONDI"/>
+            <line text="EXTRA."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="IMMER MIT DER RUHE!"/>
+            <line text="FÜGE 15 EXTRASEKUNDEN"/>
+            <line text="HINZU."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="VAI COM CALMA!"/>
+            <line text="SOME 15 SEGUNDOS"/>
+            <line text="EXTRA."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_0_2">
+        <Language id="ENGLISH">
+            <line text="SUPERNIMS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="SUPERNIMS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="SUPERNIMS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="SUPERNIMS"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SUPERNIMS"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SUPERNIMS"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_0_2">
+        <Language id="ENGLISH">
+            <line text="START WITH AN ADVANTAGE!"/>
+            <line text="PLACE 3 SUPERNIMS"/>
+            <line text="ON THE BOARD."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡EMPIEZA CON VENTAJA!"/>
+            <line text="COLOCA 3 SUPERNIMS"/>
+            <line text="EN EL TABLERO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PRENEZ L'AVANTAGE!"/>
+            <line text="PLACEZ 3 SUPERNIMS"/>
+            <line text="SUR LA PLANCHE."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="INCOMINCIA IN VANTAGGIO!"/>
+            <line text="POSIZIONA 3 SUPERNIM"/>
+            <line text="SUL TABELLONE."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="STARTE MIT VORTEIL!"/>
+            <line text="PLATZIERE 3 SUPERNIMS"/>
+            <line text="AUF DEM SPIELBRETT."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="COMECE COM VANTAGEM!"/>
+            <line text="COLOQUE 3 SUPERNIMS"/>
+            <line text="NO TABULEIRO."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_0_3">
+        <Language id="ENGLISH">
+            <line text="COLOURED NIM"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="NIM DE COLOR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="NIM DE COULEUR"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NIM A COLORI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FARBIGEN NIM"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NIM COLORIDO"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_0_3">
+        <Language id="ENGLISH">
+            <line text="MAKE IT EASIER!"/>
+            <line text="PLACE A COLOURED NIM"/>
+            <line text="ON THE BOARD."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡HAZLO MÁS FÁCIL!"/>
+            <line text="COLOCA 1 NIM DE COLOR"/>
+            <line text="EN EL TABLERO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FAITES-LE PLUS FACILE!"/>
+            <line text="PLACEZ 1 NIM DE COULEUR"/>
+            <line text="SUR LA PLANCHE."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="RENDILO PIÙ FACILE!"/>
+            <line text="POSIZIONA 1 NIM A COLORI"/>
+            <line text="SUL TABELLONE."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="MACH ES EINFACHER!"/>
+            <line text="PLATZIERE 1 FARBIGEN NIM"/>
+            <line text="AUF DEM SPIELBRETT."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FAÇA ISSO MAIS FÁCIL!"/>
+            <line text="COLOQUE 1 NIM COLORIDO"/>
+            <line text="NO TABULEIRO."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_1_0">
+        <Language id="ENGLISH">
+            <line text="HAMMER"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="MARTILLO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="MARTEAU"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="MARTELLO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="HAMMER"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="MARTELO"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_1_0">
+        <Language id="ENGLISH">
+            <line text="HIT THE BOX ONCE"/>
+            <line text="WITH THIS HAMMER."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="GOLPEA UNA VEZ LA CASILLA"/>
+            <line text="CON ESTE MARTILLO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FRAPPEZ UNE FOIS LA CASE"/>
+            <line text="AVEC CE MARTEAU."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="BATTI UNA VOLTA SULLA CASELLA"/>
+            <line text="CON QUESTO MARTELLO."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SCHLAGE MIT DIESEM HAMMER"/>
+            <line text="EINMAL AUF DAS FELD."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="BATA UMA VEZ NA CASA"/>
+            <line text="COM ESTE MARTELO."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_1_1">
+        <Language id="ENGLISH">
+            <line text="GOLDEN PICK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PICO DE ORO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PIOLET D'OR"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="BECCO D'ORO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="GOLDENEN SPITZHACKE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PICARETA DE OURO"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_1_1">
+        <Language id="ENGLISH">
+            <line text="ELIMINATE A BOX WITH"/>
+            <line text ="THE MIGHTY GOLDEN PICK."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="ELIMINA UNA CASILLA CON"/>
+            <line text ="EL PODEROSO PICO DE ORO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ÉLIMINEZ UNE CASE AVEC"/>
+            <line text="LE PUISSANT PIOLET D'OR."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ELIMINA UNA CASELLA CON"/>
+            <line text="IL POTENTE BECCO D'ORO."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ENTFERNE EIN FELD MIT DER"/>
+            <line text="KRAFTVOLLEN GOLDENEN"/>
+            <line text="SPITZHACKE."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ELIMINE UMA CASA COM"/>
+            <line text="A PODEROSA PICARETA DE OURO."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_1_2">
+        <Language id="ENGLISH">
+            <line text="BOMB"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="BOMBA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="BOMBE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="BOMBA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BOMBE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="BOMBA"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_1_2">
+        <Language id="ENGLISH">
+            <line text="TAKE COVER!"/>
+            <line text="THE BOMB ELIMINATES"/>
+            <line text="AN AREA OF THE BOARD."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡PONTE A CUBIERTO!"/>
+            <line text="LA BOMBA ELIMINA "/>
+            <line text="UN ÁREA DEL TABLERO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="AUX ABRIS!"/>
+            <line text="LA BOMBE ÉLIMINE UNE"/>
+            <line text="ZONE DE LA PLANCHE."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="METTITI AL RIPARO!"/>
+            <line text="LA BOMBA ELIMINA UNA"/>
+            <line text="ZONA DEL TABELLONE."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BRING DICH IN DECKUNG!"/>
+            <line text="DIE BOMBE ENTFERNT EINEN"/>
+            <line text="BEREICH DES SPIELBRETTES."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PROTEJA-SE!"/>
+            <line text="A BOMBA ELIMINA UMA"/>
+            <line text="ÁREA DO TABULEIRO."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_1_3">
+        <Language id="ENGLISH">
+            <line text="ROCKET"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="COHETE"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FUSÉE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="RAZZO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="RAKETE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FOGUETE"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_1_3">
+        <Language id="ENGLISH">
+            <line text="LET THE PARTY BEGIN!"/>
+            <line text="LAUNCH A ROCKET TO"/>
+            <line text="ELIMINATE A WHOLE ROW."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡QUE EMPIEZE LA FIESTA!"/>
+            <line text="LANZA UN COHETE PARA"/>
+            <line text="ELIMINAR UNA FILA ENTERA."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="QUE LA FÊTE COMMENCE!"/>
+            <line text="LANCEZ UNE FUSÉE POUR"/>
+            <line text="ÉLIMINER UNE RANGÉE ENTIÈRE."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="LA FESTA PUÒ INCOMINCIARE!"/>
+            <line text="LANCIA UN RAZZO PER"/>
+            <line text="ELIMINARE UNA FILA COMPLETA."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DIE PARTY KANN BEGINNEN!"/>
+            <line text="STARTE EINE RAKETE, UM EINE"/>
+            <line text="GESAMTE REIHE ZU ENTFERNEN."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="QUE COMECE A FESTA!"/>
+            <line text="LANCE UM FOGUETE PARA"/>
+            <line text="ELIMINAR UMA FILEIRA."/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_TITLE_1_4">
+        <Language id="ENGLISH">
+            <line text="COLOURED NIM"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="NIM DE COLOR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="NIM DE COULEUR"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NIM A COLORI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FARBIGEN NIM"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NIM COLORIDO"/>
+        </Language>
+    </Text>
+    <Text id="BOOSTER_DESC_1_4">
+        <Language id="ENGLISH">
+            <line text="PROBLEMS?"/>
+            <line text="PLACE A COLOURED NIM"/>
+            <line text="ON THE BOARD."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿PROBLEMAS?"/>
+            <line text="COLOCA UN COMBO DE COLOR"/>
+            <line text="EN EL TABLERO."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DES PROBLÈMES?"/>
+            <line text="PLACEZ UN NIM DE COULEUR"/>
+            <line text="SUR LA PLANCHE."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PROBLEMI?"/>
+            <line text="POSIZIONA 1 NIM A COLORI"/>
+            <line text="SUL TABELLONE."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="PROBLEME?"/>
+            <line text="PLATZIERE EINEN FARBIGEN NIM"/>
+            <line text="AUF DEM SPIELBRETT."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PROBLEMAS?"/>
+            <line text="COLOQUE UM NIM COLORIDO"/>
+            <line text="NO TABULEIRO."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_CONECTAR">
+        <Language id="ENGLISH">
+            <line text="CONNECT NIMS!"/>
+            <line text="Select a NIM and connect it" />
+            <line text="to others of the same colour."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡CONECTA LOS NIMS!"/>
+            <line text="Selecciona un NIM y conéctalo" />
+            <line text="con otros del mismo color."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="CONNECTEZ LES NIMS!"/>
+            <line text="Sélectionnez un NIM et connectez-le"/>
+            <line text="à d'autres de la même couleur."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="COLLEGA I NIM!"/>
+            <line text="Scegli un NIM e collegalo ad"/>
+            <line text="altri dello stesso colore."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="VERBINDE DIE NIMS!"/>
+            <line text="Wähle einen NIM und verbinde ihn"/>
+            <line text="mit anderen NIMS derselben farbe."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CONECTE OS NIMS!"/>
+            <line text="Selecione um NIM e conecte-o"/>
+            <line text="com outros da mesma cor."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_CONECTAR">
+        <Language id="ENGLISH">
+            <line text="Select a NIM"/>
+            <line text="and connect it to others" />
+            <line text="of the same colour."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Selecciona un NIM"/>
+            <line text="y conéctalo con otros" />
+            <line text="del mismo color."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Sélectionnez un NIM"/>
+            <line text="et connectez-le à d'autres"/>
+            <line text="de la même couleur."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Scegli un NIM"/>
+            <line text="e collegalo ad altri"/>
+            <line text="dello stesso colore."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Wähle einen NIM"/>
+            <line text="und verbinde ihn mit"/>
+            <line text="anderen NIMS derselben farbe."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Selecione um NIM"/>
+            <line text="e conecte-o com outros"/>
+            <line text="da mesma cor."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_TITLE">
+        <Language id="ENGLISH">
+            <line text="TUTORIAL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TUTORIAL"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="TUTORIEL"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="TUTORIAL"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ANLEITUNG"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="TUTORIAL"/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_COMBO">
+        <Language id="ENGLISH">
+            <line text="CREATE SUPERNIM COMBOS!"/>
+            <line text="Connect 4 or more NIMS of the same"/>
+            <line text="colour and create explosive NIMS."/>
+            <line text="Connect them to make them explode." />
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡CREA COMBOS SUPERNIMS!"/>
+            <line text="Junta 4 NIMS o más del mismo"/>
+            <line text="color y crea NIMS explosivos."/>
+            <line text="Únelos para hacerlos explotar." />
+        </Language>
+        <Language id="FRENCH">
+            <line text="CRÉEZ DES COMBOS SUPERNIMS!"/>
+            <line text="Unissez 4 NIMS ou plus de la même"/>
+            <line text="couleur et créez des NIMS explosifs."/>
+            <line text="Unissez-les pour les faire exploser."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CREA ABBINAMENTI SUPERNIM!"/>
+            <line text="Connetta 4 NIM o più dello stesso"/>
+            <line text="colore e crea NIM esplosivi."/>
+            <line text="Uniscili per farli esplodere."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BILDE SUPERNIM-COMBOS!"/>
+            <line text="Füge 4 oder mehr NIMS derselben farbe"/>
+            <line text="zusammen und bilde explosive NIMS."/>
+            <line text="Verbinde Sie, um Sie explodieren zu lassen."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CRIE COMBOS SUPERNIMS!"/>
+            <line text="Junte 4 NIMS ou mais da mesma cor"/>
+            <line text="e crie NIMS explosivos."/>
+            <line text="Junte-os para fazê-los explodir."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_COMBO">
+        <Language id="ENGLISH">
+            <line text="Connect 4 or more NIMS"/>
+            <line text ="of the same colour and"/>
+            <line text="create explosive NIMS."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Junta 4 NIMS o más"/>
+            <line text="del mismo color y"/>
+            <line text="crea NIMS explosivos."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Unissez 4 NIMS ou plus"/>
+            <line text="de la même couleur et"/>
+            <line text="créez des NIMS explosifs."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Connetta 4 NIM o più"/>
+            <line text="dello stesso colore e"/>
+            <line text="crea NIM esplosivi."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Füge 4 oder mehr NIMS"/>
+            <line text="derselben farbe zusammen und"/>
+            <line text="bilde explosive NIMS."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Junte 4 NIMS ou mais"/>
+            <line text="da mesma cor e"/>
+            <line text="crie NIMS explosivos."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_SENTIDO_COMBOS">
+        <Language id="ENGLISH">
+            <line text="MIND THE DIRECTION!"/>
+            <line text="Create different SUPERNIMS according" />
+            <line text="to the direction of your combination."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡CUIDADO CON LA DIRECCIÓN!"/>
+            <line text="Crea distintos SUPERNIMS según la" />
+            <line text="dirección de tu combinación."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ATTENTION AU SENS!"/>
+            <line text="Créez différents SUPERNIMS selon"/>
+            <line text="le sens de votre combinaison."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ATTENZIONE ALLA DIREZIONE!"/>
+            <line text="Crea diversi SUPERNIM a seconda"/>
+            <line text="della direzione del tuo abbinamento."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="AUFGEPASST MIT DER RICHTUNG!"/>
+            <line text="Bilde verschiedene SUPERNIMS je nach"/>
+            <line text="der richtung deiner kombination."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CUIDADO COM A DIREÇÃO!"/>
+            <line text="Crie diferentes SUPERNIMS segundo"/>
+            <line text="a direção de sua combinação."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_SENTIDO_COMBOS">
+        <Language id="ENGLISH">
+            <line text="Create different SUPERNIMS"/>
+            <line text="according to the direction"/>
+            <line text="of your combination."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Crea distintos SUPERNIMS"/>
+            <line text="según la dirección de" />
+            <line text="tu combinación."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Créez différents SUPERNIMS"/>
+            <line text="selon le sens de"/>
+            <line text="votre combinaison."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Crea diversi SUPERNIM"/>
+            <line text="a seconda della direzione"/>
+            <line text="del tuo abbinamento."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Bilde verschiedene SUPERNIMS"/>
+            <line text="je nach der richtung"/>
+            <line text="deiner kombination."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Crie diferentes SUPERNIMS"/>
+            <line text="segundo a direção"/>
+            <line text="de sua combinação."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_COMBOS_EXPLOTE">
+        <Language id="ENGLISH">
+            <line text="Connect SUPERNIMS to"/>
+            <line text="make them explode." />
+        </Language>
+        <Language id="SPANISH">
+            <line text="Úne SUPERNIMS para"/>
+            <line text="hacerlos explotar"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Unissez-les pour "/>
+            <line text="les faire exploser."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Uniscili per"/>
+            <line text="farli esplodere."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Verbinde Sie, um Sie"/>
+            <line text="explodieren zu lassen."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Junte-os para"/>
+            <line text="fazê-los explodir."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_COMBO_COLOR">
+        <Language id="ENGLISH">
+            <line text="THE MORE THE BETTER!"/>
+            <line text="Connect 8 NIMS of the same colour" />
+            <line text="to get a COLOURED NIM."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡CUÁNTOS MÁS MEJOR!"/>
+            <line text="Junta 8 NIMS del mismo color" />
+            <line text="para conseguir un NIM DE COLOR."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PLUS IL Y EN A, MIEUX C'EST!"/>
+            <line text="Unissez 8 NIMS de la même couleur"/>
+            <line text="pour obtenir un NIM DE COULEUR."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PIÙ NE SONO, MEGLIO È!"/>
+            <line text="Connetta 8 NIM dello stesso colore"/>
+            <line text="per ottenere 1 NIM A COLORI."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="JE MEHR, DESTO BESSER!"/>
+            <line text="Füge 8 NIMS derselben farbe zusammen,"/>
+            <line text="um einen FARBIGEN NIM zu bekommen."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="QUANTOS MAIS MELHOR!"/>
+            <line text="Junte 8 NIMS da mesma cor para"/>
+            <line text="conseguir um NIM COLORIDO."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_COMBO_COLOR">
+        <Language id="ENGLISH">
+            <line text="Connect 8 NIMS of the"/>
+            <line text="same colour to get a" />
+            <line text="COLOURED NIM."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Junta 8 NIMS del mismo"/>
+            <line text="color para conseguir" />
+            <line text="un NIM DE COLOR."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Unissez 8 NIMS de la même"/>
+            <line text="couleur pour obtenir"/>
+            <line text="un NIM DE COULEUR."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Connetta 8 NIM dello"/>
+            <line text="stesso colore per ottenere"/>
+            <line text="1 NIM A COLORI."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Füge 8 NIMS derselben"/>
+            <line text="farbe zusammen, um einen"/>
+            <line text="FARBIGEN NIM zu bekommen."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Junte 8 NIMS da mesma"/>
+            <line text="cor para conseguir"/>
+            <line text="um NIM COLORIDO."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_COMBINACIONES_COMBOS">
+        <Language id="ENGLISH">
+            <line text="THE COLOUR DOESN'T MATTER!"/>
+            <line text="Connect different types of SUPERNIM" />
+            <line text="and see what happens."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡NO IMPORTA EL COLOR!"/>
+            <line text="Junta distintos tipos de SUPERNIMS" />
+            <line text="y descubre lo que ocurre."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PEU IMPORTE LA COULEUR!"/>
+            <line text="Unissez différents types de SUPERNIMS"/>
+            <line text="et découvrez ce qui se passe."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NON IMPORTA IL COLORE!"/>
+            <line text="Connetta diversi tipi di SUPERNIM"/>
+            <line text="e scopri cosa succede."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DIE FARBE IST EGAL!"/>
+            <line text="Füge verschiedene arten von SUPERNIMS"/>
+            <line text="zusammen und entdecke, was passiert."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="NÃO IMPORTA A COR!"/>
+            <line text="Junte diferentes tipos de SUPERNIMS"/>
+            <line text="e descubra o que acontece."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_COMBINACIONES_COMBOS">
+        <Language id="ENGLISH">
+            <line text="Connect different"/>
+            <line text="types of SUPERNIM" />
+            <line text="and see what happens."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Junta distintos tipos"/>
+            <line text="de SUPERNIMS y descubre" />
+            <line text="lo que ocurre."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Unissez différents types"/>
+            <line text="de SUPERNIMS et découvrez"/>
+            <line text="ce qui se passe."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Connetta diversi tipi"/>
+            <line text="di SUPERNIM e"/>
+            <line text="scopri cosa succede."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Füge verschiedene arten"/>
+            <line text="von SUPERNIMS zusammen und"/>
+            <line text="entdecke, was passiert."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Junte diferentes tipos"/>
+            <line text="de SUPERNIMS e"/>
+            <line text="descubra o que acontece."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_COMBINACIONES_COMBOS">
+        <Language id="ENGLISH">
+            <line text="Connect different types"/>
+            <line text="of SUPERNIM and see" />
+            <line text="what happens."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Junta distintos tipos"/>
+            <line text="de SUPERNIMS y descubre" />
+            <line text="lo que ocurre."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Unissez différents types"/>
+            <line text="de SUPERNIMS et découvrez"/>
+            <line text="ce qui se passe."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Connetta diversi tipi"/>
+            <line text="di SUPERNIM e scopri"/>
+            <line text="cosa succede."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Füge verschiedene arten"/>
+            <line text="von SUPERNIMS zusammen und"/>
+            <line text="entdecke, was passiert."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Junte diferentes tipos"/>
+            <line text="de SUPERNIMS e descubra"/>
+            <line text="o que acontece."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_ESTRELLAS">
+        <Language id="ENGLISH">
+            <line text="TARGET: STARS!"/>
+            <line text="Increase your score by making" />
+            <line text="combinations and get stars." />
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡OBJETIVO ESTRELLAS!"/>
+            <line text="Aumenta tu puntuación haciendo" />
+            <line text="combinaciones y consigue estrellas." />
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIF: LES ÉTOILES!"/>
+            <line text="Augmentez vos points en faisant des"/>
+            <line text="combinaisons et obtenez des étoiles."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVO STELLE!"/>
+            <line text="Aumenta il punteggio facendo"/>
+            <line text="abbinamenti ed ottieni delle stelle."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIEL: STERNE!"/>
+            <line text="Erhöhe deine punktzahl, indem du"/>
+            <line text="kombinationen bildest, und hol dir sterne."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVO ESTRELAS!"/>
+            <line text="Aumente a sua pontuação fazendo"/>
+            <line text="combinações e consiga estrelas."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_ESTRELLAS">
+        <Language id="ENGLISH">
+            <line text="Increase your score"/>
+            <line text="by making combinations" />
+            <line text="and get stars." />
+        </Language>
+        <Language id="SPANISH">
+            <line text="Aumenta tu puntuación"/>
+            <line text="haciendo combinaciones" />
+            <line text="y consigue estrellas." />
+        </Language>
+        <Language id="FRENCH">
+            <line text="Augmentez vos points"/>
+            <line text="en faisant des combinaisons"/>
+            <line text="et obtenez des étoiles."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Aumenta il punteggio"/>
+            <line text="facendo abbinamenti"/>
+            <line text="ed ottieni delle stelle."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Erhöhe deine punktzahl,"/>
+            <line text="indem du kombinationen"/>
+            <line text="bildest, und hol dir sterne."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Aumente a sua pontuação"/>
+            <line text="fazendo combinações"/>
+            <line text="e consiga estrelas."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_GLUE">
+        <Language id="ENGLISH">
+            <line text="Careful! Stop the green"/>
+            <line text="glue from spreading by"/>
+            <line text="making combinations around it." />
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Cuidado! Evita que el"/>
+            <line text="pegamento verde se propague"/>
+            <line text="haciendo combinaciones alrededor." />
+        </Language>
+        <Language id="FRENCH">
+            <line text="Attention! Vous devez éviter que"/>
+            <line text="la colle verte ne s'étale et donc "/>
+            <line text="créer des combinaisons autour."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Attenzione! Per evitare che "/>
+            <line text="la colla verde si propaghi, "/>
+            <line text ="fai delle combinazioni intorno."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Achtung! Vermeide, dass der grüne"/>
+            <line text="Klebstoff sich ausbreitet, indem"/>
+            <line text="du um diesen herum Kombinationen vornimmst."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Cuidado! Evite que a"/>
+            <line text="cola verde se propague "/>
+            <line text="fazendo combinações ao redor."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_BARRO">
+        <Language id="ENGLISH">
+            <line text="TARGET: MUD!"/>
+            <line text="Eliminate the mud by making"/>
+            <line text="combinations over it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡OBJETIVO BARRO!"/>
+            <line text="Elimina el barro haciendo"/>
+            <line text="combinaciones sobre él."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIF: LA BOUE!"/>
+            <line text="Éliminez la boue en faisant"/>
+            <line text="des combinaisons sur celle-ci."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVO FANGO!"/>
+            <line text="Elimina il fango facendo"/>
+            <line text="abbinamenti su di esso."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIEL: SCHLAMM!"/>
+            <line text="Entferne den schlamm, indem du"/>
+            <line text="kombinationen über ihm bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVO BARRO!"/>
+            <line text="Elimine o barro fazendo"/>
+            <line text="combinações sobre ele."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_BARRO">
+        <Language id="ENGLISH">
+            <line text="Eliminate the mud"/>
+            <line text="by making combinations"/>
+            <line text="over it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Elimina el barro"/>
+            <line text="haciendo combinaciones"/>
+            <line text="sobre él."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Éliminez la boue en"/>
+            <line text="faisant des combinaisons"/>
+            <line text="sur celle-ci."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Elimina il fango"/>
+            <line text="facendo abbinamenti"/>
+            <line text="su di esso."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Entferne den schlamm,"/>
+            <line text="indem du kombinationen"/>
+            <line text="über ihm bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Elimine o barro"/>
+            <line text="fazendo combinações"/>
+            <line text="sobre ele."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_MADERA">
+        <Language id="ENGLISH">
+            <line text="TARGET: WOOD!"/>
+            <line text="Eliminate the wooden boards by"/>
+            <line text="making combinations around them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡OBJETIVO MADERA!"/>
+            <line text="Elimina las tablas de madera haciendo"/>
+            <line text="combinaciones alrededor de ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIF: LE BOIS!"/>
+            <line text="Éliminez les planches en bois en faisant"/>
+            <line text="des combinaisons autour de celles-ci."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVO LEGNO!"/>
+            <line text="Elimina le tavole di legno facendo"/>
+            <line text="abbinamenti attorno a loro."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIEL: HOLZ!"/>
+            <line text="Entferne die holzbretter, indem du"/>
+            <line text="kombinationen um Sie herum bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVO MADEIRA!"/>
+            <line text="Elimine as tábuas de madeira fazendo"/>
+            <line text="combinações ao redor delas."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_MADERA">
+        <Language id="ENGLISH">
+            <line text="Eliminate the wooden"/>
+            <line text="boards by making"/>
+            <line text="combinations around them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Elimina las tablas de"/>
+            <line text="madera haciendo combinaciones"/>
+            <line text="alrededor de ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Éliminez les planches en bois"/>
+            <line text="en faisant des combinaisons"/>
+            <line text="autour de celles-ci."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Elimina le tavole di"/>
+            <line text="legno facendo abbinamenti"/>
+            <line text="attorno a loro."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Entferne die holzbretter,"/>
+            <line text="indem du kombinationen"/>
+            <line text="um Sie herum bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Elimine as tábuas de"/>
+            <line tetx="madeira fazendo combinações"/>
+            <line text="ao redor delas."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_RECOLECTAR_ANIMALES">
+        <Language id="ENGLISH">
+            <line text="COLLECT NIMS!"/>
+            <line text="Collect NIMS by making"/>
+            <line text="combinations with them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡RECOLECTA NIMS!"/>
+            <line text="Consigue recolectar los NIMS"/>
+            <line text="haciendo combinaciones con ellos."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="COLLECTEZ DES NIMS!"/>
+            <line text="Réussissez à collecter les NIMS en"/>
+            <line text="faisant des combinaisons avec eux."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="RADUNA I NIM!"/>
+            <line text="Riesci a radunare i nim facendo"/>
+            <line text="abbinamenti con loro."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SAMMLE DIE NIMS!"/>
+            <line text="Sammle die NIMS, indem du"/>
+            <line text="kombinationen mit ihnen bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="RECOLHA OS NIMS!"/>
+            <line text="Consiga recolher os NIMS fazendo"/>
+            <line text="combinações entre eles."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_RECOLECTAR_ANIMALES">
+        <Language id="ENGLISH">
+            <line text="Collect NIMS by"/>
+            <line text="making combinations"/>
+            <line text="with them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Consigue recolectar"/>
+            <line text="los NIMS haciendo"/>
+            <line text="combinaciones con ellos."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Réussissez à collecter"/>
+            <line text="les NIMS en faisant des"/>
+            <line text="combinaisons avec eux."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Riesci a radunare"/>
+            <line text="i nim facendo"/>
+            <line text="abbinamenti con loro."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Sammle die NIMS,"/>
+            <line text="indem du kombinationen"/>
+            <line text="mit ihnen bildest."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Consiga recolher os"/>
+            <line text="NIMS fazendo"/>
+            <line text="combinações entre eles."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_PAJA">
+        <Language id="ENGLISH">
+            <line text="TARGET: STRAW BLOCK!"/>
+            <line text="Lower the straw block by eliminating"/>
+            <line text="the NIMS that are stopping it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡OBJETIVO ALPACA!"/>
+            <line text="Consigue bajar el bloque de paja"/>
+            <line text="eliminando los NIMS que lo impiden."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIF: L'ALPAGA!"/>
+            <line text="Réussissez à diminuer l'alpaga de"/>
+            <line text="paille en éliminant les NIMS qui"/>
+            <line text="vous l'empêchent."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVO ALPACA!"/>
+            <line text="Riesci a far scendere l'alpaca in paglia"/>
+            <line text="eliminando i NIM che l'impediscono."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIEL: STROHBALLEN!"/>
+            <line text="Hole den strohballen herunter, indem "/>
+            <line text="du die NIMS entfernst, die dich"/>
+            <line text="darin hindern."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVO FARDO!"/>
+            <line text="Consiga baixar o fardo de palha"/>
+            <line text="eliminando os NIMS que o impedem."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_PAJA">
+        <Language id="ENGLISH">
+            <line text="Lower the straw block"/>
+            <line text="by eliminating the NIMS"/>
+            <line text="that are stopping it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Consigue bajar el bloque"/>
+            <line text="de paja eliminando los"/>
+            <line text="NIMS que lo impiden."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Réussissez à diminuer l'alpaga de"/>
+            <line text="paille en éliminant les NIMS qui"/>
+            <line text="vous l'empêchent."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Riesci a far scendere"/>
+            <line text="l'alpaca in paglia eliminando"/>
+            <line text="i NIM che l'impediscono."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Hole den strohballen herunter, indem"/>
+            <line text="du die NIMS entfernst, die dich"/>
+            <line text="darin hindern."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Consiga baixar o fardo"/>
+            <line text="de palha eliminando os"/>
+            <line text="NIMS que o impedem."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_BONUS">
+        <Language id="ENGLISH">
+            <line text="NIM SHOWER!"/>
+            <line text="Got any movements or time left over?"/>
+            <line text="Catch as many NIMS as you can!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡LLUVIA DE NIMS!"/>
+            <line text="¿Te han sobrado movimientos o tiempo?"/>
+            <line text="Coge tantos NIMS como puedas!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PLUIE DE NIMS!"/>
+            <line text="Vous avez des mouvements ou du temps"/>
+            <line text="restants? Prenez autant de NIMS que"/>
+            <line text="vous pouvez!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PIOGGIA DI NIM!"/>
+            <line text="Ti sono avanzate mosse o del tempo?"/>
+            <line text="Prendi tanti NIM quanti ne puoi!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ES REGNET NIMS!"/>
+            <line text="Hast du noch züge oder zeit übrig?"/>
+            <line text="Schnapp' dir so viele NIMS,"/>
+            <line text="wie du kannst!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CHUVA DE NIMS!"/>
+            <line text="Sobraram-lhe movimentos ou tempo?"/>
+            <line text="Pegue tantos NIMS como possa!"/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_PIEDRA">
+        <Language id="ENGLISH">
+            <line text="ELIMINATE STONE!"/>
+            <line text="Eliminate the stone blocks by making"/>
+            <line text="combinations around them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡ELIMINA PIEDRA!"/>
+            <line text="Elimina los bloques de piedra haciendo"/>
+            <line text="combinaciones alrededor de ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ÉLIMINE LA PIERRE!"/>
+            <line text="Élimine les blocs de pierre en faisant"/>
+            <line text="des combinaisons autour."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ELIMINA LA PIETRA!"/>
+            <line text="Elimina i blocchi di pietre creando"/>
+            <line text="delle combinazioni attorno ad essa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="STEINE BESEITIGEN!"/>
+            <line text="Beseitige die Steinblöcke, indem du"/>
+            <line text="Kombinationen um diese herum machst."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ELIMINE PIEDRA!"/>
+            <line text="Elimine os bloqueios de pedra fazendo"/>
+            <line text="combinações ao redor dela."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_PIEDRA">
+        <Language id="ENGLISH">
+            <line text="Eliminate the stone"/>
+            <line text="blocks by making"/>
+            <line text="combinations around them."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Elimina los bloques de"/>
+            <line text="piedra haciendo combinaciones"/>
+            <line text="alrededor de ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Élimine les blocs de"/>
+            <line text="pierre en faisant"/>
+            <line text="des combinaisons autour."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Elimina i blocchi di"/>
+            <line text="pietre creando delle"/>
+            <line text="combinazioni attorno ad essa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Beseitige die Steinblöcke,"/>
+            <line text="indem du Kombinationen"/>
+            <line text="um diese herum machst."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Elimine os bloqueios"/>
+            <line text="de pedra fazendo"/>
+            <line text="combinações ao redor dela."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_RED">
+        <Language id="ENGLISH">
+            <line text="ELIMINATE NET!"/>
+            <line text="Eliminate the net by making"/>
+            <line text="combinations with the coloured NIMS"/>
+            <line text="under it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡ELIMINA LA RED!"/>
+            <line text="Elimina la red haciendo combinaciones"/>
+            <line text="con los NIMS del color que hay bajo ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ÉLIMINE LE RÉSEAU!"/>
+            <line text="Élimine le réseau en faisant les"/>
+            <line text="combinaisons avec les NIMS de la"/>
+            <line text="couleur en-dessous."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ELIMINA LA RIETE!"/>
+            <line text="Elimina la rete creando delle"/>
+            <line text="combinazioni con i NIMS del colore"/>
+            <line text="sottostante la rete stessa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DAS NETZ BESEITIGEN!"/>
+            <line text="Beseitige das Netz, indem du mit den"/>
+            <line text="NIMS der Farbe, die sich unter dem Netz"/>
+            <line text="befinden, Kombinationen machst."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ELIMINE A REDE!"/>
+            <line text="Elimine a rede fazendo combinações com"/>
+            <line text="os NIMS da cor que está abaixo dela."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_RED">
+        <Language id="ENGLISH">
+            <line text="Eliminate the net by making"/>
+            <line text="combinations with the"/>
+            <line text="coloured NIMS under it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Elimina la red haciendo"/>
+            <line text="combinaciones con los NIMS del"/>
+            <line text="color que hay bajo ella."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Élimine le réseau en faisant les"/>
+            <line text="combinaisons avec les NIMS de la"/>
+            <line text="couleur en-dessous."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Elimina la rete creando delle"/>
+            <line text="combinazioni con i NIMS del colore"/>
+            <line text="sottostante la rete stessa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Beseitige das Netz, indem du mit den"/>
+            <line text="NIMS der Farbe, die sich unter dem Netz"/>
+            <line text="befinden, Kombinationen machst."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Elimine a rede fazendo"/>
+            <line text="combinações com os NIMS da"/>
+            <line text="cor que está abaixo dela."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_TRONCO">
+        <Language id="ENGLISH">
+            <line text="TARGET: LOG!"/>
+            <line text="Lower the log by eliminating"/>
+            <line text="the NIMS that are stopping it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡OBJETIVO TRONCO!"/>
+            <line text="Consigue bajar el tronco"/>
+            <line text="eliminando los NIMS que lo impiden."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="OBJECTIF: LE TRONC!"/>
+            <line text="Réussissez à diminuer le tronc"/>
+            <line text="en éliminant les NIMS qui"/>
+            <line text="vous l'empêchent."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="OBIETTIVO TRONCO!"/>
+            <line text="Riesci a far scendere il tronco"/>
+            <line text="eliminando i NIM che l'impediscono."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ZIEL: STAMM!"/>
+            <line text="Hole den stamm herunter, indem "/>
+            <line text="du die NIMS entfernst, die dich"/>
+            <line text="darin hindern."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="OBJETIVO TRONCO!"/>
+            <line text="Consiga baixar o tronco"/>
+            <line text="eliminando os NIMS que o impedem."/>
+        </Language>
+    </Text>
+    <Text id="HOWTO_INGAME_TRONCO">
+        <Language id="ENGLISH">
+            <line text="Lower the log by"/>
+            <line text="eliminating the NIMS"/>
+            <line text="that are stopping it."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Consigue bajar el"/>
+            <line text="tronco eliminando los"/>
+            <line text="NIMS que lo impiden."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Réussissez à diminuer le tronc"/>
+            <line text="en éliminant les NIMS qui"/>
+            <line text="vous l'empêchent."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Riesci a far scendere"/>
+            <line text="il tronco eliminando i"/>
+            <line text="NIM che l'impediscono."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Hole den stamm herunter, indem "/>
+            <line text="du die NIMS entfernst, die dich"/>
+            <line text="darin hindern."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Consiga baixar o "/>
+            <line text="tronco eliminando os"/>
+            <line text="NIMS que o impedem."/>
+        </Language>
+    </Text>
+    <Text id="CONTINUE_PLAYING_1">
+        <Language id="ENGLISH">
+            <line text="CONTINUE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="SEGUIR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="CONTINUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CONTINUA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="WEITER"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CONTINUAR"/>
+        </Language>
+    </Text>
+    <Text id="CONTINUE_PLAYING_2">
+        <Language id="ENGLISH">
+            <line text="PLAYING"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="JUGANDO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="À JOUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="A GIOCARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SPIELEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="JOGANDO"/>
+        </Language>
+    </Text>
+    <Text id="SEND_HEARTS">
+        <Language id="ENGLISH">
+            <line text="Send Lives!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Enviar vidas!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Envoyer des vies!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Inviare vite!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Leben senden!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Enviar vidas!"/>
+        </Language>
+    </Text>
+    <Text id="SEND_HEARTS_DESC">
+        <Language id="ENGLISH">
+            <line text="I see you want to continue playing. Have a life!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Veo que quieres seguir jugando. ¡Aquí tienes una vida!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Je vois que vous souhaitez continuer à jouer. Voici une vie!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Vedo che vuoi continuare a giocare. Eccoti una vita!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Ich sehe, du willst weiterspielen. Hier hast du ein leben!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Vejo que quer seguir jogando. Aquí há uma vida!"/>
+        </Language>
+    </Text>
+    <Text id="ASK_FOR_HEARTS">
+        <Language id="ENGLISH">
+            <line text="Ask for lives!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Pedir vidas!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Demander des vies!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Chiedere vite!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Leben anfordern!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Pedir vidas!"/>
+        </Language>
+    </Text>
+    <Text id="ASK_FOR_HEARTS_DESC">
+        <Language id="ENGLISH">
+            <line text="I need a life! Can you send me one?"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Necesito una vida! ¿Me puedes enviar una?"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="J'ai besoin d'une vie! Pouvez-vous m'en envoyer une?"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Ho bisogno di una vita! Me ne puoi inviare una?"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Ich brauche ein leben! Kannst du mir ein leben senden?"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Necessito uma vida! Pode me enviar uma?"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GENERAL_TITLE">
+        <Language id="ENGLISH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FACEBOOK"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GENERAL_TEXT1">
+        <Language id="ENGLISH">
+            <line text="CONNECT WITH FACEBOOK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="CONÉCTATE A FACEBOOK"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="CONNECTEZ-VOUS À FACEBOOK"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="COLLEGATI A FACEBOOK"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="MIT FACEBOOK VERBINDEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SE LIGUE NO FACEBOOK"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GENERAL_TEXT2">
+        <Language id="ENGLISH">
+            <line text="SEE YOUR FRIENDS ON THE MAP"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="VE A TUS AMIGOS EN EL MAPA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="VOIR VOS AMIS SUR LA CARTE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="VISUALIZZA I TUOI AMICI SULLA MAPPA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DEINE FREUNDE AUF DER KARTE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="VEJA SEUS AMIGOS NO MAPA"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GENERAL_TEXT3">
+        <Language id="ENGLISH">
+            <line text="COMPETE WITH YOUR FRIENDS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="COMPITE CON TUS AMIGOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="RIVALISEZ AVEC VOS AMIS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="GAREGGIA CON I TUOI AMICI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="TRITT GEGEN DEINE FREUNDE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="COMPITA COM SEUS AMIGOS"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GENERAL_TEXT4">
+        <Language id="ENGLISH">
+            <line text="GIVE AND RECEIVE LIVES FROM YOUR FRIENDS"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="DA Y RECIBE VIDAS DE TUS AMIGOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DONNEZ ET RECEVEZ DES VIES DE VOS AMIS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="DAI E RICEVI VITE DAI TUOI AMICI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="DEINEN FREUNDEN LEBEN GEBEN UND ERHALTEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="DÊ E RECEBA VIDAS DE SEUS AMIGOS"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_GIVE_HEARTS_TITLE">
+        <Language id="ENGLISH">
+            <line text="GIVE LIVES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="DAR VIDAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DONNER DES VIES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="DARE VITE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="LEBEN GEBEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="DAR VIDAS"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_ASK_HEARTS_TITLE">
+        <Language id="ENGLISH">
+            <line text="ASK FOR LIVES"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PEDIR VIDAS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DEMANDER DES VIES"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CHIEDERE VITE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="LEBEN ANFORDERN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PEDIR VIDAS"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_MAIL_TITLE">
+        <Language id="ENGLISH">
+            <line text="MAIL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="CORREO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="COURRIER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="POSTA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="E-MAIL"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CORREIO"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_INVITE_FRIENDS_TITLE">
+        <Language id="ENGLISH">
+            <line text="Invite your friends!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Invita a tus amigos!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Invitez vos amis!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Invita i tuoi amici!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Lade deine freunde ein!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Convide a seus amigos!"/>
+        </Language>
+    </Text>
+    <Text id="INVITE">
+        <Language id="ENGLISH">
+            <line text="Invite"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Invita"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Invitez"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Invita"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Lade"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Convide"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_INVITE_FRIENDS_TEXT">
+        <Language id="ENGLISH">
+            <line text="Want to play Nims Planet with me?"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿Todavía no conoces Nims Planet? ¡Juega conmigo!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Vous ne connaissez pas encore Nims Planet? Jouez avec moi!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Non conosci ancora il gioco Nims Planet? Gioca con me!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Kennst du Nims Planet noch nicht? Spel mit mir!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Ainda não conhece Nims Planet? Jogue comigo!"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_RECIVE_HEART_MAIL_TEXT">
+        <Language id="ENGLISH">
+            <line text=""/>
+            <line text="has given you a life"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text=""/>
+            <line text="te ha dado una vida"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text=""/>
+            <line text="vous a donné une vie"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text=""/>
+            <line text="ti ha dato una vita"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text=""/>
+            <line text="hat dir ein leben gegeben"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text=""/>
+            <line text="lhe deu uma vida"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_ASK_HEART_MAIL_TEXT">
+        <Language id="ENGLISH">
+            <line text=""/>
+            <line text="needs a life"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text=""/>
+            <line text="necesita una vida"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="a"/>
+            <line text="besoin d'une vie"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ha"/>
+            <line text="bisogno di una vita"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text=""/>
+            <line text="braucht ein leben"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text=""/>
+            <line text="necessita uma vida"/>
+        </Language>
+    </Text>
+    <Text id="SEND_BTN">
+        <Language id="ENGLISH">
+            <line text="SEND"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="ENVIAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ENVOYER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="INVIARE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SENDEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ENVIAR"/>
+        </Language>
+    </Text>
+    <Text id="ALL_BTN">
+        <Language id="ENGLISH">
+            <line text="ALL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TODOS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="TOUS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="TUTTI"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ALLE"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="TODOS"/>
+        </Language>
+    </Text>
+    <Text id="ASK_BTN">
+        <Language id="ENGLISH">
+            <line text="ASK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="PEDIR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DEMANDER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="CHIEDERE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="ANFORDERN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="PEDIR"/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_STORE_FAIL">
+        <Language id="ENGLISH">
+            <line text="Error in the purchase."/>
+            <line text="Try again later."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Error al realizar la compra."/>
+            <line text="Inténtalo más tarde."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Erreur en réalisant l'achat."/>
+            <line text="Réessayez plus tard."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Errore nell'eseguire l'acquisto."/>
+            <line text="Riprova più tardi."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Fehler beim kauf."/>
+            <line text="Versuche es später erneut."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Erro ao realizar a compra."/>
+            <line text="Tente mais tarde."/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_STORE_DONE">
+        <Language id="ENGLISH">
+            <line text="You have acquired the item!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Has adquirido el elemento!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="L'achat a été correctement"/>
+            <line text="réalisé."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="L'acquisto è stato eseguito"/>
+            <line text="con successo."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Der kauf wurde erfolgreich"/>
+            <line text="abgeschlossen."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="A compra se realizou"/>
+            <line text="com sucesso."/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_FACEBOOK_FAIL">
+        <Language id="ENGLISH">
+            <line text="No connection with Facebook."/>
+            <line text="Try again later."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="No hay conexión con Facebook."/>
+            <line text="Intentalo más tarde."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Il n'y a pas de connexion avec Facebook."/>
+            <line text="Réessayez plus tard."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Nessun collegamento con Facebook."/>
+            <line text="Riprova più tardi."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Keine verbindung mit Facebook vorhanden."/>
+            <line text="Versuche es später erneut."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Não há conexão com Facebook."/>
+            <line text="Tente mais tarde."/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_FACEBOOK_DONE">
+        <Language id="ENGLISH">
+            <line text="Connected with Facebook"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Conectado con Facebook"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Connecté avec Facebook"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Collegato con Facebook"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Mit Facebook verbunden"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Conectado com Facebook"/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_FACEBOOK_TITLE">
+        <Language id="ENGLISH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FACEBOOK"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="FACEBOOK"/>
+        </Language>
+    </Text>
+    <Text id="INFO_POPUP_STORE_TITLE">
+        <Language id="ENGLISH">
+            <line text="STORE"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="TIENDA"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="BOUTIQUE"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="NEGOZIO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="SHOP"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="LOJA"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_NOCONNECT_LABEL">
+        <Language id="ENGLISH">
+            <line text="Compete with your friends!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Compite con tus amigos!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Rivalisez avec vos amis!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Gareggia con i tuoi amici!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Tritt gegen deine freunde!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Compita com seus amigos!"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_INVITE_LABEL">
+        <Language id="ENGLISH">
+            <line text="Invite your friends!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Invita a tus amigos!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Invitez vos amis!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Invita i tuoi amici!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Lade deine freunde ein!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Convide a seus amigos!"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_SHARE_LABEL">
+        <Language id="ENGLISH">
+            <line text="Appear on your friends' map!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Aparece en el mapa de tus amigos!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Apparaissez sur la carte de vos amis!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Appare sulla mappa dei tuoi amici!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Erscheint auf deiner freunde-karte!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Aparece no mapa dos seus amigos!"/>
+        </Language>
+    </Text>
+    <Text id="FACEBOOK_SHARE_LABEL_SMALL">
+        <Language id="ENGLISH">
+            <line text="(We'll never post anything on your wall)"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="(Nunca publicaremos nada en tu muro)"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="(Nous ne publierons jamais rien sur votre mur)"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="(Non pubblichiamo mai nulla sul tuo muro)"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="(Wir veröffentlichen niemals etwas auf deiner pinnwand)"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="(Nunca publicaremos nada no seu muro)"/>
+        </Language>
+    </Text>
+    <Text id="SELECCION_BOOSTERS">
+        <Language id="ENGLISH">
+            <line text="BOOSTERS SELECTION"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="SELECCIÓN DE BOOSTERS"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="SÉLECTION DE BOOSTERS"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="SELEZIONE DI BOOSTER"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="BOOSTER-AUSWAHL"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="SELEÇÃO DE BOOSTERS"/>
+        </Language>
+    </Text>
+    <Text id="FULL">
+        <Language id="ENGLISH">
+            <line text="FULL"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="LLENO"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="PLEIN"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="PIENO"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="VOLL"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="CHEIO"/>
+        </Language>
+    </Text>
+    <Text id="LEVEL_SHORT">
+        <Language id="ENGLISH">
+            <line text="Lvl."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Nvl."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Niv."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Lvl."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Lvl."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Lvl."/>
+        </Language>
+    </Text>
+    <Text id="NOTIFICATION_FULL_LIVES">
+        <Language id="ENGLISH">
+            <line text="You have all your lives again!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Vuelves a tener todas las vidas!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Tu a récupéré toutes tes vies!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Ottieni di nuovo tutte le vite!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Du erhältst alle Leben züruck!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Volta a ter todas as vidas!"/>
+        </Language>
+    </Text>
+    <Text id="NOTIFICATION_MISS_YOU">
+        <Language id="ENGLISH">
+            <line text="Are you there? We miss you!"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¿Estas ahí? ¡Te echamos de menos!"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Es-tu là? Tu nous manques!"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Ci sei? Ci manchi!"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Bist du da? Wir vermissen dich!"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Você está ai? Saudades de você!"/>
+        </Language>
+    </Text>
+    <Text id="ERROR">
+        <Language id="ENGLISH">
+            <line text="ERROR"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="ERROR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="ERREUR"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="ERRORE"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FEHLER"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="ERRO"/>
+        </Language>
+    </Text>
+    <Text id="STOPPER_LOCK_TEXT">
+        <Language id="ENGLISH">
+            <line text="Invite 3 friends or wait to"/>
+            <line text="unlock another area of the map."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Invita a 3 amigos o espera"/>
+            <line text="para desbloquear más mapa."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Invitez 3 amis ou attendez"/>
+            <line text="pour débloquer plus de carte."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Invita 3 amici o aspetta per"/>
+            <line text="sbloccare un'altra zona della mappa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Lade 3 Freunde ein oder warte, um"/>
+            <line text="weitere Teile der Karte  freizugeben."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Convide 3 amigos ou espere"/>
+            <line text="para desbloquear mais mapa."/>
+        </Language>
+    </Text>
+    <Text id="STOPPER_UNLOCK_TEXT">
+        <Language id="ENGLISH">
+            <line text="Congratulations! You can now"/>
+            <line text="unlock another area of the map."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="¡Felicidades! Ya puedes"/>
+            <line text="desbloquear más mapa."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Félicitations! Vous pouvez"/>
+            <line text="débloquer plus de carte."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Complimenti! Adesso puoi sbloccare"/>
+            <line text="un'altra zona della mappa."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Herzlichen Glückwunsch! Du kannst"/>
+            <line text="jetzt weitere Teile der Karte freigeben."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Parabéns! Já pode desbloquear"/>
+            <line text="mais mapa."/>
+        </Language>
+    </Text>
+    <Text id="FREE_SPINS">
+        <Language id="ENGLISH">
+            <line text="Three free spins every day."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Tres tiradas gratis al día."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Trois tirages gratuits par jour."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Tre giri gratis al giorno."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Drei kostenlose Würfe täglich."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Tres tiradas gratis por dia."/>
+        </Language>
+    </Text>
+    <Text id="UNLOCK_NOW">
+        <Language id="ENGLISH">
+            <line text="Unlock now."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Desbloquear ya."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Débloquer maintenant."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Sblocca adesso."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Jetzt freigeben."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Desbloquear já."/>
+        </Language>
+    </Text>
+    <Text id="UNLOCK">
+        <Language id="ENGLISH">
+            <line text="UNLOCK"/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="DESBLOQUEAR"/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="DÉBLOQUER"/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="SBLOCCA"/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="FREIGEBEN"/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="DESBLOQUEAR"/>
+        </Language>
+    </Text>
+    <Text id="NETWORK_ERROR">
+        <Language id="ENGLISH">
+            <line text="You need an internet connection"/>
+            <line text="in order to gain access."/>
+        </Language>
+        <Language id="SPANISH">
+            <line text="Necesitas una conexión a"/>
+            <line text="internet para acceder."/>
+        </Language>
+        <Language id="FRENCH">
+            <line text="Pour accéder, vous avez besoin"/>
+            <line text="d'une connexion à Internet."/>
+        </Language>
+        <Language id="ITALIAN">
+            <line text="Per accedere occorre una"/>
+            <line text="connessione internet."/>
+        </Language>
+        <Language id="GERMAN">
+            <line text="Du benötigst eine Internetverbindung,"/>
+            <line text="um Zugriff zu erhalten."/>
+        </Language>
+        <Language id="PORTUGUESE">
+            <line text="Necessita uma conexão a"/>
+            <line text="internet para acessar."/>
+        </Language>
+    </Text>
+</Texts>

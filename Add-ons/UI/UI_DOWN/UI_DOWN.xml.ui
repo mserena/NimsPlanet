@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_DOWN</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_DOWN\Resources</Resources>
+  <Name>UI_DOWN</Name>
+  <JsonFileName>UI_DOWN.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_DOWN\Json</JsonFolder>
+  <JsonList>
+    <string>UI_DOWN.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1710</Width>
+    <Height>280</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_DOWN\UI_DOWN.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_DOWN0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_DOWN.json</CurrentUIJson>
+</UIProject>

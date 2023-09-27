@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_UP</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_UP\Resources</Resources>
+  <Name>UI_UP</Name>
+  <JsonFileName>UI_UP.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_UP\Json</JsonFolder>
+  <JsonList>
+    <string>UI_UP.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1710</Width>
+    <Height>530</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_UP\UI_UP.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_UP0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_UP0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_UP.json</CurrentUIJson>
+</UIProject>

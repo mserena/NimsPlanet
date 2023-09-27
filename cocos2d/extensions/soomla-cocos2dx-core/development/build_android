@@ -1,0 +1,14 @@
+paths=( "submodules/soomla-android-core" "soomla-native/projects/cocos2dx-android-core" )
+build=../build/android
+
+rm -rf $build
+mkdir -p $build
+
+for path in "${paths[@]}"
+do
+  cd $path
+  ./build_all
+  cd -
+  cp -R $path/build/* $build/
+done
+

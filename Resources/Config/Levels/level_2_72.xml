@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="72">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        <restriction type="1" value="45"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects, 3-collect figures, 4-collect blocks(rocks) 5-break rocks, 6-network -->
+        <goal type="0" value="8500" optional="false"/>
+        <goal type="5" value="8" optional="false"/>
+        <goal type="6" value="16" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="4000,8500,12000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="1"/>
+        <figureWeight id="2" weight="1"/>
+        <figureWeight id="3" weight="1"/>
+        <figureWeight id="4" weight="1"/>
+        <figureWeight id="5" weight="1"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3],C2[D0T6|S3T3]"/>
+        <row rowDescriptor="C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2],C2[S1T2]"/>
+        <row rowDescriptor="C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5],C2[D0T6|S3T5]"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1"/>
+        
+        <!-- Background -->
+        <background src="bgForest.jpg"/>
+        
+    </Level>
+</Levels>

@@ -1,0 +1,49 @@
+#ifndef __TTMapDefines_SCENE_H__
+#define __TTMapDefines_SCENE_H__
+
+#define MAP_ASSETS_FILE         "animalCubes_map"
+
+#define DESACCELERATION         -5000
+#define TIME_TO_DESCCELERATION  1.0
+
+typedef enum
+{
+    MAP_TYPE_ANIM_ROTATION,
+    MAP_TYPE_ANIM_ANIMATOR,
+    MAP_TYPE_ANIM_STATIC_SPRITE,
+    MAP_TYPE_ANIM_PARTICLES,
+    MAP_TYPE_ANIM_JUMP,
+}MAP_TYPE_ANIM;
+
+typedef enum
+{
+    MAP_LAYER,
+}MAP_LAYERS;
+
+typedef enum
+{
+    INMAP_PIECES_LAYER,
+    INMAP_CELLS_LAYER,
+    INMAP_ANIMATION_LAYER,
+    INMAP_FRIENDS_LAYER,
+    INMAP_USERS_LAYER,
+}INMAP_LAYERS;
+
+typedef enum
+{
+    HALO_1_LAYER,
+    HALO_2_LAYER,
+    CELL_LAYER,
+    STARS_LAYER,
+    NUM_LAYER,
+    STOPPER_LAYER
+}CELLS_LAYERS;
+
+typedef enum SCROLL_MOVE_DIRECTION
+{
+    SCROLL_N,
+    SCROLL_S,
+}SCROLL_MOVE_DIRECTION;
+
+
+#endif  // __TTMapDefines_SCENE_H__

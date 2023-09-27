@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_POPUP_SMART</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_POPUP_SMART\Resources</Resources>
+  <Name>UI_POPUP_SMART</Name>
+  <JsonFileName>UI_POPUP_SMART.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_POPUP_SMART\Json</JsonFolder>
+  <JsonList>
+    <string>UI_POPUP_SMART.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1500</Width>
+    <Height>1600</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_POPUP_SMART\UI_POPUP_SMART.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_POPUP_SMART0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_POPUP_SMART.json</CurrentUIJson>
+</UIProject>

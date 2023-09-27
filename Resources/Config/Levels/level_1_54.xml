@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="54">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="9"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+
+        <!-- Restrictions -->
+        <restriction type="1" value="55"/>     <!-- Time restriction -->
+        
+        <!-- Goals -->
+        <goal type="0" value="18000" optional="false"/>
+        <goal type="3" figure="1" value="100" optional="false"/>
+        <goal type="3" figure="4" value="100" optional="false"/>
+        <goal type="3" figure="5" value="100" optional="false"/>
+        <goal type="3" figure="6" value="100" optional="false"/>
+
+        <!-- Score stars-->
+        <stars scores="8000,18000,28000"/>
+
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="3"/>
+        <figureWeight id="1" weight="2"/>
+        <figureWeight id="2" weight="2"/>
+        <figureWeight id="3" weight="3"/>
+        <figureWeight id="4" weight="3"/>
+        <figureWeight id="5" weight="3"/>
+
+        <!-- Map -->
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T3],C2[D0T3],C2[D0T3],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[S2T2],C2[S2T2],C2[S2T2],C2[S2T1],C2[S2T1],C2[S2T1],C2[S2T2],C2[S2T2],C2[S2T2]"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        <row rowDescriptor="C1,C1,C1,C1,C1,C1,C1,C1,C1"/>
+        
+        <!-- Background -->
+        <background src="bgSheep.jpg"/>
+    </Level>
+</Levels>

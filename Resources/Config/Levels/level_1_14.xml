@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="14">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="9"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+    
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        
+        <restriction type="1" value="12"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks)-->
+        
+        <goal type="3" value="18" figure="4" optional="false"/>
+        <goal type="3" value="18" figure="5" optional="false"/>
+        <goal type="3" value="18" figure="6" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="2000,3000,3500"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="1"/>
+        <figureWeight id="2" weight="1"/>
+        <figureWeight id="3" weight="3"/>
+        <figureWeight id="4" weight="3"/>
+        <figureWeight id="5" weight="3"/>
+        
+        <!-- Map -->
+        
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C0,C2[D0T6],C2[D0T6],C2[D0T1],C2[D0T6],C2[D0T6],C0,C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T0],C0,C2[D0T6],C0,C2[D0T0],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T1],C2[D0T6],C2[D0T6],C2[D0T0],C2[D0T6],C2[D0T6],C2[D0T1],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T0],C0,C2[D0T6],C0,C2[D0T0],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C0,C2[D0T6],C2[D0T6],C2[D0T1],C2[D0T6],C2[D0T6],C0,C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        
+        <!-- Background -->
+        <background src="bgFarm.jpg"/>
+    </Level>
+</Levels>

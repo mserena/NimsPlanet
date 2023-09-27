@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<howToInGame>
+    <tutorial levelId="1">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="1,4"/>
+                    <cellAllowed id="2,4"/>
+                    <cellAllowed id="3,4"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_CONECTAR"/>
+            </tutorialStep>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="4,2"/>
+                    <cellAllowed id="4,3"/>
+                    <cellAllowed id="4,4"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_ESTRELLAS"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+                            
+    <tutorial levelId="2">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="0,3"/>
+                    <cellAllowed id="1,3"/>
+                    <cellAllowed id="2,3"/>
+                    <cellAllowed id="3,3"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_COMBO"/>
+            </tutorialStep>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="5,2"/>
+                    <cellAllowed id="5,3"/>
+                    <cellAllowed id="5,4"/>
+                    <cellAllowed id="5,5"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_SENTIDO_COMBOS"/>
+            </tutorialStep>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="3,3"/>
+                    <cellAllowed id="3,4"/>
+                    <cellAllowed id="3,5"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_COMBOS_EXPLOTE"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="3">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="2,3"/>
+                    <cellAllowed id="3,3"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_COMBINACIONES_COMBOS"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+
+    <tutorial levelId="4">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="2,3"/>
+                    <cellAllowed id="2,4"/>
+                    <cellAllowed id="3,5"/>
+                    <cellAllowed id="4,6"/>
+                    <cellAllowed id="5,6"/>
+                    <cellAllowed id="5,5"/>
+                    <cellAllowed id="5,4"/>
+                    <cellAllowed id="5,3"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_COMBO_COLOR"/>
+            </tutorialStep>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="5,6"/>
+                    <cellAllowed id="6,6"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_COMBINACIONES_COMBOS"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+
+    <tutorial levelId="6">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="1,1"/>
+                    <cellAllowed id="2,2"/>
+                    <cellAllowed id="3,3"/>
+                    <cellAllowed id="3,4"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_BARRO"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="11">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="4,2"/>
+                    <cellAllowed id="5,3"/>
+                    <cellAllowed id="4,4"/>
+                    <cellAllowed id="3,5"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_RECOLECTAR_ANIMALES"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="16">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="1,3"/>
+                    <cellAllowed id="1,4"/>
+                    <cellAllowed id="1,5"/>
+                </cellsAllowed>
+                <cellsVisibleNoAllowed>
+                    <cellVisibleNoAllowed id="1,2"/>
+                </cellsVisibleNoAllowed>
+                <text id="HOWTO_INGAME_PAJA"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="24">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="5,5"/>
+                    <cellAllowed id="5,6"/>
+                    <cellAllowed id="5,7"/>
+                </cellsAllowed>
+                <cellsVisibleNoAllowed>
+                    <cellVisibleNoAllowed id="5,4"/>
+                </cellsVisibleNoAllowed>
+                <text id="HOWTO_INGAME_MADERA"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="55">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="4,2"/>
+                    <cellAllowed id="5,3"/>
+                    <cellAllowed id="5,4"/>
+                </cellsAllowed>
+                <cellsVisibleNoAllowed>
+                    <cellVisibleNoAllowed id="4,3"/>
+                    <cellVisibleNoAllowed id="4,4"/>
+                </cellsVisibleNoAllowed>
+                <text id="HOWTO_INGAME_PIEDRA"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="56">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="6,3"/>
+                    <cellAllowed id="5,3"/>
+                    <cellAllowed id="5,4"/>
+                </cellsAllowed>
+                <cellsVisibleNoAllowed>
+                    <cellVisibleNoAllowed id="5,2"/>
+                    <cellVisibleNoAllowed id="5,5"/>
+                </cellsVisibleNoAllowed>
+                <text id="HOWTO_INGAME_TRONCO"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="61">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="0,4"/>
+                    <cellAllowed id="0,5"/>
+                    <cellAllowed id="1,5"/>
+                    <cellAllowed id="2,5"/>
+                </cellsAllowed>
+                <text id="HOWTO_INGAME_RED"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+    
+    <tutorial levelId="101">
+        <tutorialSteps>
+            <tutorialStep>
+                <cellsAllowed>
+                    <cellAllowed id="2,6"/>
+                    <cellAllowed id="3,6"/>
+                    <cellAllowed id="4,6"/>
+                </cellsAllowed>
+                <cellsVisibleNoAllowed>
+                    <cellVisibleNoAllowed id="3,5"/>
+                </cellsVisibleNoAllowed>
+                <text id="HOWTO_INGAME_GLUE"/>
+            </tutorialStep>
+        </tutorialSteps>
+    </tutorial>
+
+</howToInGame>

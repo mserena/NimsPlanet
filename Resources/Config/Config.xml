@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<Config>
+    <!-- Configuración general -->
+    <generalResources>
+        <generalResource type="spriteSheet" src="animalCubes_ui"/>
+        <generalResource type="spriteSheet" src="animalCubes_tutorialInGame"/>
+        <generalResource type="particle" src="stone_particles"/>
+        <generalResource type="particle" src="star_win"/>
+        <generalResource type="particle" src="booster_combo_color"/>
+        <generalResource type="particle" src="booster_bomba"/>
+        <generalResource type="particle" src="booster_rocket"/>
+        <generalResource type="particle" src="animal_cazado"/>
+        <generalResource type="particle" src="FireWork_red"/>
+        <generalResource type="particle" src="FireWork_blue"/>
+        <generalResource type="particle" src="FireWork_green"/>
+        <generalResource type="animationSheet" src="animalCubes_ui_animations"/>
+        <generalResource type="animationSheet" src="animalCubes_tutorialInGame_animations"/>
+    </generalResources>
+    
+    <!-- Definición de paquetes de personajes -->
+    <CharacterPacks>
+        <CharacterPack id="0">
+            <CharacterPackGraphics>
+                <CharacterPackGraphic type="spriteSheet" src="animalCubes_world1_characters0"/>
+                <CharacterPackGraphic type="spriteSheet" src="animalCubes_world1_characters1"/>
+                <CharacterPackGraphic type="animationSheet" src="animalCubes_world1_animations"/>
+            </CharacterPackGraphics>
+            
+            <CharacterPackConfigs>
+                <CharacterPackConfig type="figures_size_percentage" value="85"/>
+            </CharacterPackConfigs>
+
+            <CharacterPackSounds>
+                <CharacterPackSound id="FIGURE0_SELECTION" value="World1_Figure0_Select"/>
+                <CharacterPackSound id="FIGURE0_UNSELECTION" value="World1_Figure0_UnSelect"/>
+                <CharacterPackSound id="FIGURE1_SELECTION" value="World1_Figure1_Select"/>
+                <CharacterPackSound id="FIGURE1_UNSELECTION" value="World1_Figure1_UnSelect"/>
+                <CharacterPackSound id="FIGURE2_SELECTION" value="World1_Figure2_Select"/>
+                <CharacterPackSound id="FIGURE2_UNSELECTION" value="World1_Figure2_UnSelect"/>
+                <CharacterPackSound id="FIGURE3_SELECTION" value="World1_Figure3_Select"/>
+                <CharacterPackSound id="FIGURE3_UNSELECTION" value="World1_Figure3_UnSelect"/>
+                <CharacterPackSound id="FIGURE4_SELECTION" value="World1_Figure4_Select"/>
+                <CharacterPackSound id="FIGURE4_UNSELECTION" value="World1_Figure4_UnSelect"/>
+                <CharacterPackSound id="FIGURE5_SELECTION" value="World1_Figure5_Select"/>
+                <CharacterPackSound id="FIGURE5_UNSELECTION" value="World1_Figure5_UnSelect"/>
+            </CharacterPackSounds>
+        </CharacterPack>
+        
+        <CharacterPack id="1">
+            <CharacterPackGraphics>
+                <CharacterPackGraphic type="spriteSheet" src="animalCubes_world2_characters0"/>
+                <CharacterPackGraphic type="animationSheet" src="animalCubes_world2_animations"/>
+            </CharacterPackGraphics>
+            
+            <CharacterPackConfigs>
+                <CharacterPackConfig type="figures_size_percentage" value="95"/>
+            </CharacterPackConfigs>
+            
+            <CharacterPackSounds>
+                <CharacterPackSound id="FIGURE0_SELECTION" value="World2_Figure0_Select"/>
+                <CharacterPackSound id="FIGURE0_UNSELECTION" value="World2_Figure0_UnSelect"/>
+                <CharacterPackSound id="FIGURE1_SELECTION" value="World2_Figure1_Select"/>
+                <CharacterPackSound id="FIGURE1_UNSELECTION" value="World2_Figure1_UnSelect"/>
+                <CharacterPackSound id="FIGURE2_SELECTION" value="World2_Figure2_Select"/>
+                <CharacterPackSound id="FIGURE2_UNSELECTION" value="World2_Figure2_UnSelect"/>
+                <CharacterPackSound id="FIGURE3_SELECTION" value="World2_Figure3_Select"/>
+                <CharacterPackSound id="FIGURE3_UNSELECTION" value="World2_Figure3_UnSelect"/>
+                <CharacterPackSound id="FIGURE4_SELECTION" value="World2_Figure4_Select"/>
+                <CharacterPackSound id="FIGURE4_UNSELECTION" value="World2_Figure4_UnSelect"/>
+                <CharacterPackSound id="FIGURE5_SELECTION" value="World2_Figure5_Select"/>
+                <CharacterPackSound id="FIGURE5_UNSELECTION" value="World2_Figure5_UnSelect"/>
+            </CharacterPackSounds>
+        </CharacterPack>
+    </CharacterPacks>
+    
+    <!-- Definición de mundos -->
+    <Worlds>
+        <World id="1" CharacterPackId="0">
+            <worldResources>
+                <worldResource type="spriteSheet" src="animalCubes_common"/>
+                <worldResource type="spriteSheet" src="animalCubes_common_characters"/>
+                <worldResource type="animationSheet" src="animalCubes_worlds_animations"/>
+                <worldResource type="particle" src="Figure1_combo_fire"/>
+                <worldResource type="particle" src="Figure2_combo_fire"/>
+                <worldResource type="particle" src="Figure3_combo_fire"/>
+                <worldResource type="particle" src="Figure4_combo_fire"/>
+                <worldResource type="particle" src="Figure5_combo_fire"/>
+                <worldResource type="particle" src="Figure6_combo_fire"/>
+                <worldResource type="particle" src="Wite_combo_fire"/>
+            </worldResources>
+            
+            <levels>
+                <level id="1" src="level_1_1.xml"/>
+                <level id="2" src="level_1_2.xml"/>
+                <level id="3" src="level_1_3.xml"/>
+                <level id="4" src="level_1_4.xml"/>
+                <level id="5" src="level_1_5.xml"/>
+                <level id="6" src="level_1_6.xml"/>
+                <level id="7" src="level_1_7.xml"/>
+                <level id="8" src="level_1_8.xml"/>
+                <level id="9" src="level_1_9.xml"/>
+                <level id="10" src="level_1_10.xml"/>
+                <level id="11" src="level_1_11.xml"/>
+                <level id="12" src="level_1_12.xml"/>
+                <level id="13" src="level_1_13.xml"/>
+                <level id="14" src="level_1_14.xml"/>
+                <level id="15" src="level_1_15.xml"/>
+                <level id="16" src="level_1_16.xml"/>
+                <level id="17" src="level_1_17.xml"/>
+                <level id="18" src="level_1_18.xml"/>
+                <level id="19" src="level_1_19.xml"/>
+                <level id="20" src="level_1_20.xml"/>
+                <level id="21" src="level_1_21.xml"/>
+                <level id="22" src="level_1_22.xml"/>
+                <level id="23" src="level_1_23.xml"/>
+                <level id="24" src="level_1_24.xml"/>
+                <level id="25" src="level_1_25.xml"/>
+                <level id="26" src="level_1_26.xml"/>
+                <level id="27" src="level_1_27.xml"/>
+                <level id="28" src="level_1_28.xml"/>
+                <level id="29" src="level_1_29.xml"/>
+                <level id="30" src="level_1_30.xml"/>
+                <level id="31" src="level_1_31.xml"/>
+                <level id="32" src="level_1_32.xml"/>
+                <level id="33" src="level_1_33.xml"/>
+                <level id="34" src="level_1_34.xml"/>
+                <level id="35" src="level_1_35.xml"/>
+                <level id="36" src="level_1_36.xml"/>
+                <level id="37" src="level_1_37.xml"/>
+                <level id="38" src="level_1_38.xml"/>
+                <level id="39" src="level_1_39.xml"/>
+                <level id="40" src="level_1_40.xml"/>
+                <level id="41" src="level_1_41.xml"/>
+                <level id="42" src="level_1_42.xml"/>
+                <level id="43" src="level_1_43.xml"/>
+                <level id="44" src="level_1_44.xml"/>
+                <level id="45" src="level_1_45.xml"/>
+                <level id="46" src="level_1_46.xml"/>
+                <level id="47" src="level_1_47.xml"/>
+                <level id="48" src="level_1_48.xml"/>
+                <level id="49" src="level_1_49.xml"/>
+                <level id="50" src="level_1_50.xml"/>
+                <level id="51" src="level_1_51.xml"/>
+                <level id="52" src="level_1_52.xml"/>
+                <level id="53" src="level_1_53.xml"/>
+                <level id="54" src="level_1_54.xml"/>
+            </levels>
+            
+            <scores>
+                <!-- Definiciond e scores -->
+                <scoreDeathFigure value="30"/>
+                <scoreDeathCombo value="200"/>
+                <scoreDeathComboColor value="500"/>
+                
+                <scoreOvni value ="2000"/>
+                
+                <scoreCreateCombo value="50"/>
+                <scoreCreateComboColor value="100"/>
+                
+                <scoreBonusCatch value="250"/>
+                <scoreBonusNoCatch value="100"/>
+            </scores>
+            
+            <boardBoosters>
+                <!-- Boosters de tablero 0=más movimientos 1=más tiempo, 2=combos aleatorios 3=combo color aleatorio-->
+                <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+                <boardBooster type="0"/>
+                <boardBooster type="2"/>
+                <boardBooster type="3"/>
+            </boardBoosters>
+            
+            <levelBoosters>
+                <!-- Boosters de nivel 0=martillo,1=pico,2=bomba,3=cohete,4=combo color-->
+                <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+                <levelBooster type="0"/>
+                <levelBooster type="1"/>
+                <levelBooster type="2"/>
+                <levelBooster type="3"/>
+                <levelBooster type="4"/>
+            </levelBoosters>
+        </World>
+        
+        <World id="2" CharacterPackId="1">
+            <worldResources>
+                <worldResource type="spriteSheet" src="animalCubes_common"/>
+                <worldResource type="spriteSheet" src="animalCubes_common_characters"/>
+                <worldResource type="animationSheet" src="animalCubes_worlds_animations"/>
+                <worldResource type="particle" src="Figure1_combo_fire"/>
+                <worldResource type="particle" src="Figure2_combo_fire"/>
+                <worldResource type="particle" src="Figure3_combo_fire"/>
+                <worldResource type="particle" src="Figure4_combo_fire"/>
+                <worldResource type="particle" src="Figure5_combo_fire"/>
+                <worldResource type="particle" src="Figure6_combo_fire"/>
+                <worldResource type="particle" src="Wite_combo_fire"/>
+            </worldResources>
+            
+            <levels>
+                <level id="55" src="level_2_55.xml"/>
+                <level id="56" src="level_2_56.xml"/>
+                <level id="57" src="level_2_57.xml"/>
+                <level id="58" src="level_2_58.xml"/>
+                <level id="59" src="level_2_59.xml"/>
+                <level id="60" src="level_2_60.xml"/>
+                <level id="61" src="level_2_61.xml"/>
+                <level id="62" src="level_2_62.xml"/>
+                <level id="63" src="level_2_63.xml"/>
+                <level id="64" src="level_2_64.xml"/>
+                <level id="65" src="level_2_65.xml"/>
+                <level id="66" src="level_2_66.xml"/>
+                <level id="67" src="level_2_67.xml"/>
+                <level id="68" src="level_2_68.xml"/>
+                <level id="69" src="level_2_69.xml"/>
+                <level id="70" src="level_2_70.xml"/>
+                <level id="71" src="level_2_71.xml"/>
+                <level id="72" src="level_2_72.xml"/>
+                <level id="73" src="level_2_73.xml"/>
+                <level id="74" src="level_2_74.xml"/>
+                <level id="75" src="level_2_75.xml"/>
+                <level id="76" src="level_2_76.xml"/>
+                <level id="77" src="level_2_77.xml"/>
+                <level id="78" src="level_2_78.xml"/>
+                <level id="79" src="level_2_79.xml"/>
+                <level id="80" src="level_2_80.xml"/>
+                <level id="81" src="level_2_81.xml"/>
+                <level id="82" src="level_2_82.xml"/>
+                <level id="83" src="level_2_83.xml"/>
+                <level id="84" src="level_2_84.xml"/>
+                <level id="85" src="level_2_85.xml"/>
+                <level id="86" src="level_2_86.xml"/>
+                <level id="87" src="level_2_87.xml"/>
+                <level id="88" src="level_2_88.xml"/>
+                <level id="89" src="level_2_89.xml"/>
+                <level id="90" src="level_2_90.xml"/>
+                <level id="91" src="level_2_91.xml"/>
+                <level id="92" src="level_2_92.xml"/>
+                <level id="93" src="level_2_93.xml"/>
+                <level id="94" src="level_2_94.xml"/>
+                <level id="95" src="level_2_95.xml"/>
+                <level id="96" src="level_2_96.xml"/>
+                <level id="97" src="level_2_97.xml"/>
+                <level id="98" src="level_2_98.xml"/>
+                <level id="99" src="level_2_99.xml"/>
+                <level id="100" src="level_2_100.xml"/>
+                <level id="101" src="level_2_101.xml"/>
+                <level id="102" src="level_2_102.xml"/>
+                <level id="103" src="level_2_103.xml"/>
+                <level id="104" src="level_2_104.xml"/>
+                <level id="105" src="level_2_105.xml"/>
+                <level id="106" src="level_2_106.xml"/>
+                <level id="107" src="level_2_107.xml"/>
+                <level id="108" src="level_2_108.xml"/>
+                <level id="109" src="level_2_109.xml"/>
+                <level id="110" src="level_2_110.xml"/>
+                <level id="111" src="level_2_111.xml"/>
+                <level id="112" src="level_2_112.xml"/>
+                <level id="113" src="level_2_113.xml"/>
+                <level id="114" src="level_2_114.xml"/>
+                <level id="115" src="level_2_115.xml"/>
+            </levels>
+            
+            <scores>
+                <!-- Definiciond e scores -->
+                <scoreDeathFigure value="30"/>
+                <scoreDeathCombo value="200"/>
+                <scoreDeathComboColor value="500"/>
+                
+                <scoreOvni value ="2000"/>
+                
+                <scoreCreateCombo value="50"/>
+                <scoreCreateComboColor value="100"/>
+                
+                <scoreBonusCatch value="250"/>
+                <scoreBonusNoCatch value="100"/>
+            </scores>
+            
+            <boardBoosters>
+                <!-- Boosters de tablero 0=más movimientos 1=más tiempo, 2=combos aleatorios 3=combo color aleatorio-->
+                <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+                <boardBooster type="0"/>
+                <boardBooster type="2"/>
+                <boardBooster type="3"/>
+            </boardBoosters>
+            
+            <levelBoosters>
+                <!-- Boosters de nivel 0=martillo,1=pico,2=bomba,3=cohete,4=combo color-->
+                <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+                <levelBooster type="0"/>
+                <levelBooster type="1"/>
+                <levelBooster type="2"/>
+                <levelBooster type="3"/>
+                <levelBooster type="4"/>
+            </levelBoosters>
+        </World>
+    </Worlds>
+</Config>

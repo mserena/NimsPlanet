@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="46">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="9"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Boosters -->
+        <boardBoosters>
+            <!-- Boosters de tablero 0=más movimientos 1=más tiempo, 2=combos aleatorios 3=combo color aleatorio-->
+            <boardBooster type="0"/>
+            <boardBooster type="2"/>
+            <boardBooster type="3"/>
+        </boardBoosters>
+
+        <!-- Restrictions -->
+        <restriction type="1" value="25"/>      <!-- Moves restriction -->
+        
+        <!-- Goals -->
+        <goal type="0" value="5500" optional="false"/>
+        <goal type="1" value="22" optional="false"/>
+        <goal type="4" value="12" optional="false"/>
+        <!-- Score goal -->
+        <!--<goal type="1" value="10" optional="false"/>-->                                                                    <!-- Break goal -->
+        <!--<goal type="2" value="2" initWeight="2" maxWeight="10" increaseWeight="5" optional="false"/>-->        <!-- Down objects goal -->
+        <!--<goal type="3" figure="0" value="3" optional="false"/>
+            <goal type="3" figure="1" value="3" optional="false"/>
+         -->                                                   <!-- Collect figures goal-->
+
+        <!-- Score stars-->
+        <stars scores="4000,5500,7000"/>
+
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="3"/>
+        <figureWeight id="1" weight="4"/>
+        <figureWeight id="2" weight="3"/>
+        <figureWeight id="3" weight="3"/>
+        <figureWeight id="4" weight="4"/>
+        <figureWeight id="5" weight="3"/>
+
+        <!-- Map -->
+        <row rowDescriptor="C0,C0,C0,C0,C2[D0T6],C0,C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C0,C2[D0T6],C2[D0T6],C2[D0T6],C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C0,C2[S2T2],C2[S2T2],C2[S2T3],C2[S2T3],C2[S2T3],C2[S2T2],C2[S2T2],C0"/>
+        <row rowDescriptor="C2[S0T1|D0T6],C2[S0T1|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T1|D0T6],C2[S0T1|D0T6]"/>
+        <row rowDescriptor="C2[S0T1|D0T6],C2[S0T1|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T1|D0T6],C2[S0T1|D0T6]"/>
+        <row rowDescriptor="C0,C0,C2[S2T2],C2[S2T3],C2[S2T3],C2[S2T3],C2[S2T2],C0,C0"/>
+        <row rowDescriptor="C0,C0,C0,C2[S0T1|D0T5],C2[S0T1|D0T5],C2[S0T1|D0T6],C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C0,C0,C2[S0T1|D0T5],C0,C0,C0,C0"/>
+        
+        <!-- Background -->
+        <background src="bgSheep.jpg"/>
+    </Level>
+</Levels>

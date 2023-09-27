@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="5">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Restrictions -->
+        <!-- 0-time, 1-movements -->
+        <restriction type="1" value="17"/>
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks)-->
+        <goal type="0" value="3500" optional="false"/>
+        
+        <!-- Score stars-->
+        <stars scores="3000,3500,6000"/>
+        
+        <!-- Figures weight -->
+        <figureWeight id="0" weight="1"/>
+        <figureWeight id="1" weight="1"/>
+        <figureWeight id="2" weight="1"/>
+        <figureWeight id="3" weight="1"/>
+        <figureWeight id="4" weight="1"/>
+        <figureWeight id="5" weight="1"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C0,C0,C0,C2[D0T6],C0,C0,C0"/>
+        <row rowDescriptor="C0,C0,C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C0,C0,C2[D0T6],C2[D0T6],C2[D0T6],C0,C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6]"/>
+        
+        <!-- Background -->
+        <background src="bgFarm.jpg"/>
+        
+        <boardBoosters>
+            <!-- Boosters de tablero 0=más movimientos 1=más tiempo, 2=combos aleatorios 3=combo color aleatorio-->
+            <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+            <boardBooster type="0"/>
+            <boardBooster type="2"/>
+        </boardBoosters>
+        
+        <levelBoosters>
+            <!-- Boosters de nivel 0=martillo,1=pico,2=bomba,3=cohete,4=combo color-->
+            <!-- Se peuden sobreescribir estos valores a nivel de level en cada fichero XML de level-->
+            <levelBooster type="0"/>
+        </levelBoosters>
+    </Level>
+</Levels>

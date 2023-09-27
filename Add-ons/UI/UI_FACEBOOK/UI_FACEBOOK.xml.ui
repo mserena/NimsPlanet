@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\thegame\Add-ons\UI\UI_FACEBOOK</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\thegame\Add-ons\UI\UI_FACEBOOK\Resources</Resources>
+  <Name>UI_FACEBOOK</Name>
+  <JsonFileName>UI_FACEBOOK.json</JsonFileName>
+  <JsonFolder>Z:\thegame\Add-ons\UI\UI_FACEBOOK\Json</JsonFolder>
+  <JsonList>
+    <string>UI_FACEBOOK.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1700</Width>
+    <Height>2380</Height>
+  </CanvasSize>
+  <filePath>Z:\thegame\Add-ons\UI\UI_FACEBOOK\UI_FACEBOOK.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_FACEBOOK0.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson />
+</UIProject>

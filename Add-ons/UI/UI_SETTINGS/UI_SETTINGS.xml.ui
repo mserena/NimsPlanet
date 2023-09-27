@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\thegame\Add-ons\UI\UI_SETTINGS</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\thegame\Add-ons\UI\UI_SETTINGS\Resources</Resources>
+  <Name>UI_SETTINGS</Name>
+  <JsonFileName>UI_SETTINGS.json</JsonFileName>
+  <JsonFolder>Z:\thegame\Add-ons\UI\UI_SETTINGS\Json</JsonFolder>
+  <JsonList>
+    <string>UI_SETTINGS.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1700</Width>
+    <Height>2380</Height>
+  </CanvasSize>
+  <filePath>Z:\thegame\Add-ons\UI\UI_SETTINGS\UI_SETTINGS.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_SETTINGS0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_SETTINGS0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_SETTINGS.json</CurrentUIJson>
+</UIProject>

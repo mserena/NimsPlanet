@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\4points\Documents\UI_MAP</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\4points\Documents\UI_MAP\Resources</Resources>
+  <Name>UI_MAP</Name>
+  <JsonFileName>UI_MAP.json</JsonFileName>
+  <JsonFolder>C:\Users\4points\Documents\UI_MAP\Json</JsonFolder>
+  <JsonList>
+    <string>UI_MAP_COINS.json</string>
+    <string>UI_MAP_LIVE.json</string>
+    <string>UI_MAP_MENU.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1000</Width>
+    <Height>250</Height>
+  </CanvasSize>
+  <filePath>C:\Users\4points\Documents\UI_MAP\UI_MAP.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>UI_MAP0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>UI_MAP0.png</string>
+    <string>UI_MAP0.png</string>
+    <string>UI_MAP0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UI_MAP_MENU.json</CurrentUIJson>
+</UIProject>

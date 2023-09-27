@@ -1,0 +1,111 @@
+#ifndef __TTLanguagesDefinition_SCENE_H__
+#define __TTLanguagesDefinition_SCENE_H__
+
+typedef enum
+{
+    ENGLISH,
+    SPANISH,
+    FRENCH,
+    ITALIAN,
+    GERMAN,
+    PORTUGUESE,
+    LANGUAGES_NUM
+}LANGUAGES;
+
+const std::map<LANGUAGES, std::string> _languages{{ENGLISH,"ENGLISH"},
+                                                  {SPANISH,"SPANISH"},
+                                                  {FRENCH,"FRENCH"},
+                                                  {ITALIAN,"ITALIAN"},
+                                                  {GERMAN,"GERMAN"},
+                                                  {PORTUGUESE,"PORTUGUESE"}
+                                                 };
+//TAG SEPARATOR's
+#define SEPARATOR_MIL "SEPARATOR_MIL"
+
+// TAGS INGAME UI
+#define PLAY_TAG        "PLAY"
+#define CONNECT_TAG     "CONNECT"
+#define DISCONNECT_TAG  "DISCONNECT"
+#define INVITE_TAG          "INVITE"
+#define SCORE_TAG       "SCORE"
+#define MOVEMENTS_TAG   "MOVEMENTS"
+#define TIME_TAG        "TIME"
+
+// TAGS GAME MENUS
+#define LEVEL_SHORT_TAG     "LEVEL_SHORT"
+#define FULL_TAG            "FULL"
+#define LEVEL_TAG           "LEVEL"
+#define OBJECTIVES_TAG      "OBJECTIVES"
+#define APPLY_TAG           "APPLY"
+#define ORDER_LIVES_TAG     "ORDER_LIVES"
+#define LIVES_TAG           "LIVES"
+#define LIVES_DESC_TAG      "LIVES_DESC"
+#define EXIT_TITLE_TAG      "EXITTITLE"
+#define EXIT_LEVEL_1_TAG    "EXITLEVEL1"
+#define EXIT_LEVEL_2_TAG    "EXITLEVEL2"
+#define CONTINUE_PLAYING_1  "CONTINUE_PLAYING_1"
+#define CONTINUE_PLAYING_2  "CONTINUE_PLAYING_2"
+#define SEND_HEARTS         "SEND_HEARTS"
+#define SEND_HEARTS_DESC    "SEND_HEARTS_DESC"
+#define ASK_FOR_HEARTS         "ASK_FOR_HEARTS"
+#define ASK_FOR_HEARTS_DESC    "ASK_FOR_HEARTS_DESC"
+#define FACEBOOK_GENERAL_TITLE          "FACEBOOK_GENERAL_TITLE"
+#define FACEBOOK_GIVE_HEARTS_TITLE      "FACEBOOK_GIVE_HEARTS_TITLE"
+#define FACEBOOK_ASK_HEARTS_TITLE       "FACEBOOK_ASK_HEARTS_TITLE"
+#define FACEBOOK_MAIL_TITLE             "FACEBOOK_MAIL_TITLE"
+#define FACEBOOK_INVITE_FRIENDS_TITLE   "FACEBOOK_INVITE_FRIENDS_TITLE"
+#define FACEBOOK_INVITE_FRIENDS_TEXT    "FACEBOOK_INVITE_FRIENDS_TEXT"
+#define FACEBOOK_RECIVE_HEART_MAIL_TEXT "FACEBOOK_RECIVE_HEART_MAIL_TEXT"
+#define FACEBOOK_ASK_HEART_MAIL_TEXT    "FACEBOOK_ASK_HEART_MAIL_TEXT"
+#define SEND_BTN                        "SEND_BTN"
+#define ASK_BTN                         "ASK_BTN"
+#define ALL_BTN                         "ALL_BTN"
+#define INFO_POPUP_STORE_FAIL           "INFO_POPUP_STORE_FAIL"
+#define INFO_POPUP_STORE_DONE           "INFO_POPUP_STORE_DONE"
+#define INFO_POPUP_FACEBOOK_FAIL        "INFO_POPUP_FACEBOOK_FAIL"
+#define INFO_POPUP_FACEBOOK_DONE         "INFO_POPUP_FACEBOOK_DONE"
+#define INFO_POPUP_FACEBOOK_TITLE        "INFO_POPUP_FACEBOOK_TITLE"
+#define INFO_POPUP_STORE_TITLE           "INFO_POPUP_STORE_TITLE"
+#define FACEBOOK_SHARE_SCORE_LABEL       "FACEBOOK_SHARE_LABEL"
+#define FACEBOOK_SHARE_SCORE_LABEL_SMALL "FACEBOOK_SHARE_LABEL_SMALL"
+
+// DAILY BONUS
+#define FREE_SPINS      "FREE_SPINS"
+
+// TAGS LOSE SCREEN
+#define RETRY_TAG       "RETRY"
+#define LOSE_TITLE_TAG  "LOSE_TITLE"
+
+//TAGS WIN SCREEN
+#define CONTINUE_TAG      "CONTINUE"
+
+// TAGS STOPPER
+#define STOPPER_LOCK_TEXT "STOPPER_LOCK_TEXT"
+#define STOPPER_UNLOCK_TEXT "STOPPER_UNLOCK_TEXT"
+#define STOPPER_UNLOCK_NOW "UNLOCK_NOW"
+#define UNLOCK              "UNLOCK"
+
+//TAGS LOADING SCREEN
+#define LOADING_TAG     "LOADING"
+
+//TAGS SHOP
+#define TITLE_SHOP_TAG  "SHOP"
+#define COINS_TAG       "COINS"
+#define BALANCE_TAG     "BALANCE"
+
+//TAGS PAUSE
+#define TITLE_PAUSE_TAG     "PAUSE"
+#define TITLE_SETTINGS_TAG  "SETTINGS"
+#define MUSIC_PAUSE_TAG     "MUSIC"
+#define FX_PAUSE_TAG        "FX"
+#define LANGUAGES_PAUSE_TAG "LANGUAGES"
+#define HOWTOPLAY_TAG       "HOWTOPLAY"
+#define QUIT_LEVEL_TAG      "QUITLEVEL"
+#define QUIT_GAME_TAG       "QUITGAME"
+#define SEEYOUSOON          "SEEYOUSOON"
+
+//TAGS BOOSTER
+#define BOOSTER_TITLE       "BOOSTER_TITLE_"
+#define BOOSTER_DESC        "BOOSTER_DESC_"
+
+#endif  // __TTLanguagesDefinition_SCENE_H__

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Levels>
+    <Level id="55">
+        <!-- Propiedades del tablero -->
+        <BoardMaxCells value="8"/> <!-- Define el tamaño que tendrán las celdas del tablero en pantalla -->
+        
+        <!-- Tutorial -->
+        <HowToPlay pages="16,12"/>
+        
+        <!-- Boosters -->
+        <boardBoosters>
+            <!-- Boosters de tablero 0=más movimientos 1=más tiempo, 2=combos aleatorios 3=combo color aleatorio-->
+            <boardBooster type="0"/>
+            <boardBooster type="2"/>
+            <boardBooster type="3"/>
+        </boardBoosters>
+        
+        <!-- Restrictions -->
+        <restriction type="1" value="25"/>     <!-- Time restriction -->
+        
+        <!-- Goals -->
+        <!-- 0-score, 1-break, 2-downobjects,3-collect figures,4-collect blocks(rocks) 5-break rocks, 6-network -->
+        <goal type="1" value="12" optional="false"/>
+        <goal type="5" value="4" optional="false"/>
+        <goal type="3" figure="3" value="30" optional="false"/>
+        <goal type="3" figure="5" value="30" optional="false"/>
+       
+        
+        <!-- Score stars-->
+        <stars scores="1500,4000,9000"/>
+        
+        <figureWeight id="0" weight="2"/>
+        <figureWeight id="1" weight="2"/>
+        <figureWeight id="2" weight="3"/>
+        <figureWeight id="3" weight="2"/>
+        <figureWeight id="4" weight="3"/>
+        <figureWeight id="5" weight="2"/>
+        
+        <!-- Map -->
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[S2T1],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[S2T1],C2[D0T6]"/>
+        <row rowDescriptor="C0,C2[D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[S0T2|D0T3],C2[S0T2|D0T6],C2[D0T6],C0"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[S0T2|D0T6],C2[S1T2],C2[S1T2],C2[S0T2|D0T3],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C2[S0T2|D0T6],C2[S1T2],C2[S1T2],C2[S0T2|D0T3],C2[D0T6],C2[D0T6]"/>
+        <row rowDescriptor="C0,C2[D0T6],C2[S0T2|D0T6],C2[S0T2|D0T6]],C2[S0T2|D0T6],C2[S0T2|D0T6],C2[D0T6],C0"/>
+        <row rowDescriptor="C2[D0T6],C2[S2T1],C2[D0T6],C2[D0T6],C2[D0T6],C2[D0T6],C2[S2T1],C2[D0T6]"/>
+        <row rowDescriptor="C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6],C0,C2[D0T6],C2[D0T6]"/>
+        
+        
+        <!-- Background -->
+        <background src="bgForest.jpg"/>
+    </Level>
+</Levels>
